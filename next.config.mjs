@@ -6,42 +6,13 @@ const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
 const nextConfig = {
   output: 'export',
   eslint: {
-    ignoreDuringBuilds: true,
+    ignoreDuringBuilds: false,
   },
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
-  allowedDevOrigins: ["*.preview.same-app.com", "*.trycloudflare.com"],
   images: {
     unoptimized: true,
-    domains: [
-      "source.unsplash.com",
-      "images.unsplash.com",
-      "ext.same-assets.com",
-      "ugc.same-assets.com",
-    ],
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "source.unsplash.com",
-        pathname: "/**",
-      },
-      {
-        protocol: "https",
-        hostname: "images.unsplash.com",
-        pathname: "/**",
-      },
-      {
-        protocol: "https",
-        hostname: "ext.same-assets.com",
-        pathname: "/**",
-      },
-      {
-        protocol: "https",
-        hostname: "ugc.same-assets.com",
-        pathname: "/**",
-      },
-    ],
   },
 };
 

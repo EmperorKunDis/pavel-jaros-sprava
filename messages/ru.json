@@ -1,149 +1,233 @@
 {
-  "nav": {
-    "properties": "Недвижимость",
-    "services": "Услуги",
-    "references": "Отзывы",
-    "about": "Обо мне",
-    "contact": "Контакты",
-    "contactMe": "СВЯЖИТЕСЬ СО МНОЙ"
-  },
   "cookie": {
-    "message": "Для предоставления наилучших услуг мы используем такие технологии, как файлы cookie, для хранения и/или доступа к информации об устройстве.",
-    "reject": "Отклонить",
-    "accept": "Принять",
-    "preferences": "Показать настройки"
+    "message": "Etot sajt ispolzuet cookie dlja uluchshenija vashego opyta. Ispolzuja etot sajt, vy soglashaetes s nashej politikoj cookie.",
+    "accept": "Prinjat vse",
+    "reject": "Otklonjat vse",
+    "preferences": "Posmotret nastrojki"
+  },
+  "nav": {
+    "services": "Uslugi",
+    "pricing": "Ceny",
+    "howItWorks": "Kak eto rabotaet",
+    "about": "O nas",
+    "references": "Otzyvy",
+    "contact": "Kontakty",
+    "cta": "Besplatnaja zayavka"
   },
   "hero": {
-    "title": "Максимизируйте прибыль от вашей недвижимости",
-    "cta": "МОИ ПРЕДЛАГАЕМЫЕ УСЛУГИ"
+    "title": "Bezzabotnyj dohod ot arendy. Kazhdyj mesjac, pri ljubyh obstojatelstvah.",
+    "subtitle": "Doverte svoju nedvizhimost professionalam i naslazhajtes stabilnym dohodom bez edinogo zvonka ot arendatorov. My pozabotimsja obo vsem - ot podbora nadezhnyh arendatorov do reguljarnyh proverok i polnogo servisa. Vasha kvartira. Nasha zabota. Vashe spokojstvie.",
+    "cta": "Hochu arendovat bez zabot"
   },
-  "properties": {
-    "viewProperty": "ПОСМОТРЕТЬ ОБЪЕКТ",
-    "moreProperties": "БОЛЬШЕ ОБЪЕКТОВ"
+  "whyUs": {
+    "title": "Pochemu vybrat nashe upravlenie arendoj?",
+    "item1": {
+      "title": "Polnoe upravlenie arendoj ot A do Ja",
+      "text": "My proveryaem arendatorov, gotovim dogovory, obespechivayem peredachu kvartiry, kommunikaciju i raschety. Vy ni o chem ne bespokoites."
+    },
+    "item2": {
+      "title": "Prozrachnye dogovory",
+      "text": "Nikakikh zvezdochek ili sjurprizov. Dogovory ponjatny, chestny i prozrachny."
+    },
+    "item3": {
+      "title": "Bystraja reakcija v techenie 24 chasov",
+      "text": "Kogda arendatoram chto-to nuzhno, my reshayem eto nemedlenno. Vy uznaete ob etom tolko iz reguljarnyh otchetov."
+    },
+    "item4": {
+      "title": "My maksimiziruyem vash dohod",
+      "text": "My ustanovim optimalnuju summu arendy, minimiziruyem riski i obespechim, chtoby vasha nedvizhimost zarabatyvala v polnom obeme."
+    }
   },
-  "services": {
-    "title": "УСЛУГИ",
-    "bookMeeting": "ЗАПИСАТЬСЯ НА ВСТРЕЧУ",
-    "sale": {
-      "title": "ПРОДАЖА",
-      "description": "Моя цель - продать вашу недвижимость по максимально возможной цене на рынке и обеспечить, чтобы весь процесс прошел гладко и эффективно."
+  "target": {
+    "title": "Dlja kogo usluga idealna?",
+    "subtitle": "",
+    "investor": {
+      "title": "Investory",
+      "text": "Investorov, kotorye hotjat passivnyj dohod bez raboty."
     },
-    "rent": {
-      "title": "АРЕНДА",
-      "description": "Я всегда стремлюсь достичь максимальной цены аренды, одновременно находя платежеспособных арендаторов, заинтересованных в долгосрочной аренде."
+    "remote": {
+      "title": "Vladelcy iz drugih regionov",
+      "text": "Vladelcev, zhivushchih za predelami regiona Karlovy Vary ili za granicyej, kotorye ne mogut lichno uhazhivat za nedvizhimostju."
     },
-    "marketing": {
-      "title": "МАРКЕТИНГ И СТРАТЕГИЯ",
-      "description": "Маркетинг и реклама являются неотъемлемой частью моей работы. Я забочусь о выборе правильной стратегии с максимальной отдачей."
+    "time": {
+      "title": "Zanjatye professionaly",
+      "text": "Zanjatyh professionalov, kotorye hotjat posvjatit vremja sebe, a ne resheniju remontov i obshcheniju s arendatorami."
     },
-    "presentation": {
-      "title": "ПРЕЗЕНТАЦИЯ НЕДВИЖИМОСТИ",
-      "description": "При презентации недвижимости я всегда делаю акцент на деталях, используя новейшие технологии, включая качественную фотографию и 3D-визуализации."
+    "everyone": {
+      "title": "Kazhdomu",
+      "text": "Kazhdogo, kto hochet nadezhnyj dohod bez zabot."
+    }
+  },
+  "process": {
+    "title": "Kak rabotaet upravlenie arendoj? Prosto. V 4 shagah.",
+    "subtitle": "Ves process bystryj, prozrachnyj i razrabotannyj dlja vashego maksimalnogo komforta.",
+    "step1": {
+      "title": "Besplatnaja konsultacija",
+      "text": "My obsuddim vashu nedvizhimost, celi i varianty - neobazyvajushche i besplatno."
     },
-    "reconstruction": {
-      "title": "РЕКОНСТРУКЦИЯ НЕДВИЖИМОСТИ",
-      "description": "Благодаря опыту нескольких полных реконструкций я могу порекомендовать подходящие решения и при необходимости организовать специалистов."
+    "step2": {
+      "title": "Predlozhenie tarifa i optimalnoj arendy",
+      "text": "My porekomenduem luchshij tarif i ustanovim arendu tak, chtoby ona prinosila dohod."
     },
-    "valuation": {
-      "title": "ОЦЕНКА НЕДВИЖИМОСТИ",
-      "description": "Для оценки недвижимости я использую проверенные инструменты, такие как ценовые карты вместе с кадастром недвижимости."
+    "step3": {
+      "title": "Podpisanie prozrachnogo dogovora",
+      "text": "Prostoj, chestnyj i jasnyj dogovor bez skrytyh uslovij."
     },
-    "activities": {
-      "subtitle": "В ЧЕМ Я ЧАЩЕ ВСЕГО ПОМОГАЮ СВОИМ КЛИЕНТАМ",
-      "title": "МОЯ РАБОТА ВКЛЮЧАЕТ СЛЕДУЮЩИЕ ДЕЙСТВИЯ",
-      "list": {
-        "communication": "Деловое общение с потенциальными клиентами",
-        "targeting": "Идентификация и определение целевой аудитории",
-        "negotiation": "Переговоры о наилучших условиях продажи",
-        "documentation": "Подготовка документации",
-        "supervision": "Надзор за деловым случаем от начала до конца",
-        "strategy": "Настройка маркетинговой стратегии и продвижения",
-        "socialMedia": "Платное продвижение в социальных сетях",
-        "materials": "Подготовка и создание рекламных материалов",
-        "flyers": "Распространение листовок",
-        "print": "Размещение объявлений в печатных СМИ",
-        "portals": "Публикация объявлений на всех порталах недвижимости",
-        "websites": "Создание веб-сайтов для недвижимости"
+    "step4": {
+      "title": "Vy poluchayete, my zabotimsja",
+      "text": "My zanimajemsja vsem ot arendatorov do obsluzhivanija. Vy tolko sledit za vhodjashchimi platezhami."
+    }
+  },
+  "benefits": {
+    "title": "Chto my vse dlja vas sdelayem?",
+    "subtitle": "",
+    "tenants": {
+      "title": "Tshchatelnyj podbor arendatorov",
+      "text": "My proveryaem registry, dohody i rekomendacii. Minimiziruyem risk neplatshchikov i problemnyh arendatorov."
+    },
+    "guarantee": {
+      "title": "Garantirovannyj dohod (dlja izbrannyh tarifov)",
+      "text": "S premijalnymi tarifami vy poluchayete arendu dazhe togda, kogda kvartira pusta ili arendator platit pozdno."
+    },
+    "management": {
+      "title": "Obespechenie remonta i tehnicheskogo obsluzhivanija",
+      "text": "My pozabotimsja obo vseh remontah, obsluzhivanii, proverkah, svjazi s postavshchikami i godovom raschete."
+    },
+    "legal": {
+      "title": "Polnyj juridicheskij i administrativnyj servis",
+      "text": "Professionalnye dogovory arendy, akty peredachi, kommunikacija s arendatorami, TSZh i vlastjami - vse za vas."
+    }
+  },
+  "pricing": {
+    "title": "Nashi tarify",
+    "subtitle": "Nashi ceny prozrachny. Nikakikh skrytyh plat, tolko chetko opredelennyj procent ot mesjachnoj arendy.",
+    "start": {
+      "name": "Tarif START",
+      "price": "12% ot arendy",
+      "description": "Polnoe upravlenie, proverka arendatorov, dogovory, peredacha kvartiry, kommunikacija.",
+      "cta": "Vybrat tarif START",
+      "features": {
+        "1": "Reklama nedvizhimosti i marketing",
+        "2": "Podbor i polnaja proverka arendatorov",
+        "3": "Podgotovka i podpisanie dogovorov arendy",
+        "4": "Peredacha kvartiry i sozdanie protokola",
+        "5": "Obshchenie s arendatorami",
+        "6": "Upravlenie raschetami za uslugi"
+      }
+    },
+    "plus": {
+      "name": "Tarif PLUS",
+      "price": "15% ot arendy",
+      "description": "Rasshirennaja zabota + garantija 50% arendy.",
+      "cta": "Vybrat tarif PLUS",
+      "features": {
+        "1": "Vse iz tarifa START",
+        "2": "Garantija 50% arendy",
+        "3": "Melkij remont vkljuchen",
+        "4": "Reguljarnye otchety"
+      }
+    },
+    "premium": {
+      "name": "Tarif PREMIUM",
+      "badge": "Rekomenduem",
+      "price": "20% ot arendy",
+      "description": "Maksimalnaja bezopasnost. Prioritetnaja zabota + 100% garantija arendy dazhe pri pustujushchej kvartire.",
+      "cta": "Vybrat tarif PREMIUM",
+      "features": {
+        "1": "Vse iz tarifa START",
+        "2": "100% GARANTIJA ARENDY dazhe pri pustujushchej kvartire",
+        "3": "Garantirovannaja oplata arendy dazhe pri zaderzhke ot arendatora",
+        "4": "Melkij remont i obsluzhivanie vkljucheny",
+        "5": "Reguljarnye fizicheskie inspekcii nedvizhimosti (kazhdye 6 mesjacev)",
+        "6": "Prioritetnyj servis i obrabotka strahovyh sluchaev"
       }
     }
   },
   "about": {
-    "subtitle": "ОБО МНЕ",
-    "title": "ПАВЕЛ ЯРОШ",
-    "intro": "Меня зовут Павел Ярош, и я агент по недвижимости, который постоянно стремится к профессиональному росту и совершенствованию в этой области.",
-    "origin": "Я из Хеба и работаю в сфере недвижимости четыре года в качестве инвестора (покупка - реконструкция - продажа). Я занимаюсь очень популярным так называемым флиппингом недвижимости.",
-    "motivation": "Поскольку я хотел бы совершенствоваться в этой области, я решил стать агентом по недвижимости. Эта работа мне нравится в основном из-за ее разнообразия. Я занимаюсь не только бизнесом, но и юридическими вопросами и самим строительством. Каждый день другой, что меня наполняет.",
-    "passion": "Мне нравится находить подходящие решения, общаться, связывать поставщиков, инвесторов и все остальное, что связано с недвижимостью. Мне нравится встречаться с новыми людьми и решать проблемы, с которыми другие не могут справиться. Удовлетворенность клиентов - высшая награда для меня.",
-    "values": "Меня характеризует эмпатия, и я полностью понимаю, что каждый клиент требует индивидуального и гибкого подхода. Я ценю хорошую репутацию и имя.",
-    "hobby": "В свободное время я люблю заниматься спортом, я больше не могу представить хорошо проведенный день без посещения тренажерного зала. Как настоящий энтузиаст, я также люблю адреналин - прыжки с парашютом и любые адреналиновые аттракционы, я иду на все. Жизнью нужно жить.",
-    "location": {
-      "title": "МЕСТОПОЛОЖЕНИЕ",
-      "text": "Я работаю в основном в Праге, в Центральночешском и Западночешском регионах, но открыт для сотрудничества по всей Чешской Республике."
-    },
-    "experience": {
-      "title": "КАК ДОЛГО?",
-      "text1": "Как инвестор в недвижимость, у меня за плечами четыре года успешных проектов, включая несколько удачных флиппингов недвижимости.",
-      "text2": "До недавнего времени я сам организовывал полную реконструкцию квартир в их первоначальном состоянии, теперь у меня есть небольшая строительная компания, и для меня не проблема помочь клиенту с чем угодно и модифицировать недвижимость так, чтобы результатом была легкая продажа и более высокая прибыль."
-    },
-    "commission": {
-      "title": "КОМИССИЯ",
-      "text": "При продаже недвижимости плату, известную как комиссия, оплачивает продавец. В конечном итоге это логично, потому что продавец - это тот, кто выбирает агента и чьи интересы агент защищает. Размер комиссии не фиксирован и может варьироваться в зависимости от ряда факторов, таких как стратегия продаж, маркетинговый бюджет, местоположение и цена недвижимости. Однако комиссия обычно составляет от 3 до 5% от покупной цены недвижимости."
-    },
-    "why": {
-      "title": "ПОЧЕМУ СТОИТ РАБОТАТЬ СО МНОЙ?",
-      "individual": "Индивидуальный клиентоориентированный подход",
-      "professional": "Профессиональная презентация недвижимости",
-      "efficiency": "Эффективность",
-      "experience": "Многолетний опыт в сфере недвижимости",
-      "flexibility": "Гибкость"
+    "title": "Vasha nedvizhimost v rukah eksperta iz regiona Karlovy Vary",
+    "intro": "Komanda pod rukovodstvom Pavla Jarosha predostavljaet professionalnye uslugi v oblasti arendy i upravlenija nedvizhimostju s bolee chem 15-letnim opytom na rynke nedvizhimosti.",
+    "motivation": "My javljaemsja chastju gruppy PJ Group - PJ Reality, PJ Reko, PJ Sprava i PJ Design.",
+    "group": {
+      "title": "Chast silnoj gruppy",
+      "subtitle": "Kompleksnye uslugi pod odnoj kryshej",
+      "reality": "Professionalnaja prodazha i pokupka nedvizhimosti.",
+      "reconstruction": "Povyshenie cennosti investicii cherez polnuju rekonstrukciju.",
+      "design": "Dizajn interera, kotoryj privlekaet luchshih arendatorov."
     }
   },
   "references": {
-    "subtitle": "ЧТО ГОВОРЯТ ОБО МНЕ МОИ КЛИЕНТЫ",
-    "title": "ОТЗЫВЫ",
+    "title": "Chto govorjat nashi klienty",
     "client1": {
-      "name": "Даниэла Баудышова",
-      "text": "Спасибо за быструю и беспроблемную продажу дачи. Г-н Ярош отзывчивый, доброжелательный и очень профессиональный. Он понимает свою работу. Определенно рекомендуем."
+      "name": "Petr N., Praga",
+      "subtitle": "vladelec kvartiry 2+1 v Karlovych Varach",
+      "text": "Ja zhivu v Prage i doverjaju svoju kvartiru v Karlovych Varach upravleniju uzhe neskolko let. Blagodarja gospodinu Jaroshu vse rabotaet i dengi prihodzjat vovremia. Polnoe udovletvorenie."
     },
     "client2": {
-      "name": "Давид",
-      "text": "Г-н Ярош был великолепен - профессионален, быстр и всегда доступен. Иногда у меня было ощущение, что при необходимости он продал бы собственную бабушку - и все равно договорился бы о лучшей цене. Спасибо за беспроблемную продажу и человеческий подход."
+      "name": "Ing. Jana D., Heb",
+      "subtitle": "vladelica kvartiry 3+kk",
+      "text": "Tarif PREMIUM daet mne absolyutnuju garantiju dohoda i, samoe glavnoe, spokojstvie."
+    }
+  },
+  "faq": {
+    "title": "Jest voprosy? U nas jest otvety.",
+    "q1": {
+      "question": "Chto proizojdet, esli arendator ne platit?",
+      "answer": "V tarife START my nemedlenno nachinaem standartnyj process vzyskanija dolga i obshchaemsja s arendatorom. V tarife PREMIUM vy dazhe ne zametite etoj situacii - my otpravim vam garantirovannuju arendu iz sobstvennyh sredstv i reshim vsju situaciju za svoj schet."
     },
-    "client3": {
-      "name": "Йозеф Нойманн",
-      "text": "Проактивный подход и идеальная коммуникация. Максимальное удовлетворение!"
+    "q2": {
+      "question": "Kak proishodit podbor arendatora?",
+      "answer": "Eto mnogoetapnyj process. My razmeshchaem objavlenija na krupnejshih portalah, filtrujim kandidatov, proveryaem ih v dostupnyh registrah, podtverzhdaem platezgesposobnost i provodim lichnye sobesedovanija. Okonchatelnyj vybor naibolee podhodjashchikh kandidatov my vsegda soglasovyvaem s vami."
+    },
+    "q3": {
+      "question": "Chto esli v kvartire nuzhno chto-to otremontirovat?",
+      "answer": "Melkij remont (v ramkah tarifa PREMIUM) vypolnjajetsja nemedlenno s nashimi proverennymi masterami. V sluchae krupnogo remonta my nemedlenno svjazhemsia s vami, predstavim obem, bjudzhet i posle vashego odobrenija obespechim polnuju realizaciju."
+    },
+    "q4": {
+      "question": "Kakova prodolzhitelnost dogovora upravlenija?",
+      "answer": "Dogovor upravlenija my obychno zakljuchaem na 12 mesjacev s avtomaticheskim prodleniem i chetko opredelennym trehmesyachnym srokom uvedomlenija. My gibki i mozhem skorrektirovat uslovija po individualnomu soglasheniu."
     }
   },
   "contact": {
-    "subtitle": "ОСТАВАЙТЕСЬ НА СВЯЗИ",
-    "title": "КОНТАКТЫ",
-    "address": {
-      "title": "АДРЕС",
-      "text": "Капрова 52/6, Прага 1"
-    },
-    "phone": {
-      "title": "ТЕЛЕФОН",
-      "text": "+420 777 558 730"
-    },
-    "email": {
-      "title": "ЭЛЕКТРОННАЯ ПОЧТА",
-      "text": "pavel.jaros@kwcz.cz"
-    },
+    "title": "Nachnite zarabatyvat bez zabot uzhe segodnja.",
+    "subtitle": "Napishite nam o svoej nedvizhimosti. V techenie 24 chasov my svjazhemsia s vami s neobazyvajushchim predlozheniem i ocenkoj rynochnoj arendy. Konsultacija vsegda besplatna.",
+    "phone": "+420 777 558 730",
+    "email": "pavel.jaros@kwcz.cz",
+    "address": "Region Karlovy Vary",
     "form": {
-      "name": "Имя и фамилия",
-      "email": "Электронная почта",
-      "phone": "Номер телефона",
-      "message": "Ваше сообщение",
-      "weekend": "Можем ли мы связаться с вами в выходные?",
-      "gdpr": "Согласны ли вы на обработку персональных данных в соответствии с законом № 101/2000 Сб. О защите персональных данных",
-      "submit": "ОТПРАВИТЬ"
+      "name": "Vashe polnoe imja*",
+      "email": "Vash e-mail*",
+      "phone": "Vash telefon*",
+      "propertyAddress": "Adres nedvizhimosti (neobazatelno)",
+      "message": "Vashe soobshchenie (napr., o kakom tipe kvartiry idjot rech)",
+      "gdpr": "Ja soglashaius na obrabotku personalnyh dannyh.*",
+      "submit": "Otpravit neobazyvajushchij zapros",
+      "sending": "Otpravka...",
+      "success": "Spasibo za vashe soobshchenie! My svjazhemsia s vami v blizhajshee vremja.",
+      "error": "Proizoshla oshibka pri otpravke formy. Poprobujte eshche raz."
     }
   },
   "footer": {
-    "gdpr": "Просматривая веб-сайт, вы соглашаетесь на обработку персональных данных и файлов cookie.",
-    "business": "Индивидуальный предприниматель, ведущий бизнес на основании торговой лицензии, ИНН: 10846671, уполномоченный действовать от имени Keller Williams Metropolitan, являющегося учреждением MC Metropolitan s.r.o., ИНН: 07796340.",
-    "ethics": "Этический кодекс",
-    "consumer": "Информация для потребителей",
-    "whistleblow": "Внутренняя система отчетности"
+    "contact": {
+      "title": "Kontakty",
+      "name": "Pavel Jarosh",
+      "phone": "+420 777 558 730",
+      "email": "pavel.jaros@kwcz.cz",
+      "ico": "INN: 10846671",
+      "address": "Kaprova 52/6, Praga 1"
+    },
+    "services": {
+      "title": "Gruppa PJ",
+      "reality": "PJ-Reality",
+      "reconstruction": "PJ-Rekonstrukce",
+      "design": "PJ-Design"
+    },
+    "info": {
+      "title": "Informacija",
+      "services": "Uslugi",
+      "pricing": "Ceny",
+      "faq": "Chasto zadavaemye voprosy"
+    },
+    "copyright": "\u00a9 2025 PJ-Sprava. Vse prava zashchishcheny.",
+    "privacy": "Politika konfidencialnosti"
   }
 }

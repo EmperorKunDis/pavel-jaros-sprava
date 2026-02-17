@@ -1,149 +1,233 @@
 {
-  "nav": {
-    "properties": "Nieruchomości",
-    "services": "Usługi",
-    "references": "Referencje",
-    "about": "O mnie",
-    "contact": "Kontakt",
-    "contactMe": "SKONTAKTUJ SIĘ ZE MNĄ"
-  },
   "cookie": {
-    "message": "Aby zapewnić najlepsze usługi, używamy technologii takich jak pliki cookie do przechowywania i/lub uzyskiwania dostępu do informacji o urządzeniu.",
-    "reject": "Odrzuć",
-    "accept": "Akceptuj",
-    "preferences": "Pokaż preferencje"
+    "message": "Ta strona wykorzystuje pliki cookie w celu poprawy komfortu uzytkowania. Korzystajac z tej strony, zgadzasz sie z nasza polityka cookie.",
+    "accept": "Zaakceptuj wszystko",
+    "reject": "Odrzuc wszystko",
+    "preferences": "Pokaz preferencje"
+  },
+  "nav": {
+    "services": "Uslugi",
+    "pricing": "Cennik",
+    "howItWorks": "Jak to dziala",
+    "about": "O nas",
+    "references": "Referencje",
+    "contact": "Kontakt",
+    "cta": "Zapytanie niezobowiazujace"
   },
   "hero": {
-    "title": "Zmaksymalizuj zysk z Twojej nieruchomości",
-    "cta": "MOJE OFEROWANE USŁUGI"
+    "title": "Beztroski dochod z wynajmu. Kazdy miesiac, we wszystkich okolicznosciach.",
+    "subtitle": "Powierz swoja nieruchomosc profesjonalistom i ciesz sie stabilnym dochodem bez jednego telefonu od najemcow. Zajmiemy sie wszystkim - od wyboru solidnych najemcow po regularne kontrole i kompletna obsluge. Twoje mieszkanie. Nasza troska. Twoj spokoj.",
+    "cta": "Chce wynajmowac bez stresu"
   },
-  "properties": {
-    "viewProperty": "ZOBACZ NIERUCHOMOŚĆ",
-    "moreProperties": "WIĘCEJ NIERUCHOMOŚCI"
+  "whyUs": {
+    "title": "Dlaczego wybrac nasze zarzadzanie wynajmem?",
+    "item1": {
+      "title": "Kompletne zarzadzanie wynajmem od A do Z",
+      "text": "Weryfikujemy najemcow, przygotowujemy umowy, zapewniamy przekazanie mieszkania, komunikacje i rozliczenia. Ty sie o nic nie martwisz."
+    },
+    "item2": {
+      "title": "Przejrzyste umowy",
+      "text": "Zadnych gwiazdek ani niespodzianek. Umowy sa zrozumiale, uczciwe i przejrzyste."
+    },
+    "item3": {
+      "title": "Szybka reakcja w ciagu 24 godzin",
+      "text": "Kiedykolwiek najemcy czegos potrzebuja, zajmujemy sie tym natychmiast. Ty dowiadujesz sie o tym tylko z regularnych raportow."
+    },
+    "item4": {
+      "title": "Maksymalizujemy Twoj zysk",
+      "text": "Ustalamy optymalna wysokosc czynszu, minimalizujemy ryzyko i dbamy, aby Twoja nieruchomosc zarabiala w pelni."
+    }
   },
-  "services": {
-    "title": "USŁUGI",
-    "bookMeeting": "UMÓW SPOTKANIE",
-    "sale": {
-      "title": "SPRZEDAŻ",
-      "description": "Moim celem jest sprzedaż Twojej nieruchomości za najwyższą możliwą cenę na rynku i zapewnienie, że cały proces przebiegnie płynnie i efektywnie."
+  "target": {
+    "title": "Dla kogo usluga jest idealna?",
+    "subtitle": "",
+    "investor": {
+      "title": "Inwestorzy",
+      "text": "Inwestorow, ktorzy chca pasywnego dochodu bez pracy."
     },
-    "rent": {
-      "title": "WYNAJEM",
-      "description": "Zawsze staram się osiągnąć najwyższą cenę wynajmu, jednocześnie znajdując wypłacalnych najemców zainteresowanych długoterminowym wynajmem."
+    "remote": {
+      "title": "Wlasciciele spoza regionu",
+      "text": "Wlascicieli mieszkajacych poza regionem Karlovy Vary lub za granica, ktorzy nie moga osobiscie opiekowac sie nieruchomoscia."
     },
-    "marketing": {
-      "title": "MARKETING I STRATEGIA",
-      "description": "Marketing i reklama są integralną częścią mojej pracy. Dbam o wybór odpowiedniej strategii z maksymalnym zaangażowaniem."
+    "time": {
+      "title": "Zapracowani profesjonalisci",
+      "text": "Zapracowanych profesjonalistow, ktorzy chca poswiecic czas sobie, a nie rozwiazywaniu napraw i komunikacji z najemcami."
     },
-    "presentation": {
-      "title": "PREZENTACJA NIERUCHOMOŚCI",
-      "description": "Prezentując nieruchomość, zawsze kładę nacisk na szczegóły, wykorzystując najnowsze technologie, w tym wysokiej jakości fotografię i wizualizacje 3D."
+    "everyone": {
+      "title": "Kazdemu",
+      "text": "Kazdego, kto chce niezawodnych zyskow bez zmartwien."
+    }
+  },
+  "process": {
+    "title": "Jak dziala zarzadzanie wynajmem? Prosto. W 4 krokach.",
+    "subtitle": "Caly proces jest szybki, przejrzysty i zaprojektowany dla Twojego maksymalnego komfortu.",
+    "step1": {
+      "title": "Niezobowiazujaca konsultacja",
+      "text": "Omowimy Twoja nieruchomosc, cele i mozliwosci - niezobowiazujaco i bezplatnie."
     },
-    "reconstruction": {
-      "title": "RENOWACJA NIERUCHOMOŚCI",
-      "description": "Dzięki doświadczeniu z kilku kompletnych renowacji mogę polecić odpowiednie rozwiązania i w razie potrzeby zorganizować specjalistów."
+    "step2": {
+      "title": "Propozycja taryfy i optymalnego czynszu",
+      "text": "Polecamy najlepszy plan i ustalamy czynsz tak, aby zarabial."
     },
-    "valuation": {
-      "title": "WYCENA NIERUCHOMOŚCI",
-      "description": "Do wyceny nieruchomości używam sprawdzonych narzędzi, takich jak mapy cen wraz z księgą wieczystą."
+    "step3": {
+      "title": "Podpisanie przejrzystej umowy",
+      "text": "Prosta, uczciwa i jasna umowa bez ukrytych warunkow."
     },
-    "activities": {
-      "subtitle": "W CZYM NAJCZĘŚCIEJ POMAGAM MOIM KLIENTOM",
-      "title": "MOJA PRACA OBEJMUJE NASTĘPUJĄCE DZIAŁANIA",
-      "list": {
-        "communication": "Komunikacja biznesowa z potencjalnymi klientami",
-        "targeting": "Identyfikacja i specyfikacja grupy docelowej",
-        "negotiation": "Negocjowanie najlepszych warunków sprzedaży",
-        "documentation": "Przygotowanie dokumentacji",
-        "supervision": "Nadzór nad sprawą biznesową od początku do końca",
-        "strategy": "Ustalanie strategii marketingowej i promocji",
-        "socialMedia": "Płatna promocja w mediach społecznościowych",
-        "materials": "Przygotowanie i tworzenie materiałów reklamowych",
-        "flyers": "Dystrybucja ulotek",
-        "print": "Umieszczanie ogłoszeń w mediach drukowanych",
-        "portals": "Publikowanie ofert na wszystkich portalach nieruchomości",
-        "websites": "Tworzenie stron internetowych dla nieruchomości"
+    "step4": {
+      "title": "Ty inksujesz, my sie opiekujemy",
+      "text": "Zajmujemy sie wszystkim od najemcow po konserwacje. Ty tylko obserwujesz przychodzace platnosci."
+    }
+  },
+  "benefits": {
+    "title": "Co wszystko dla Ciebie zalatwmy?",
+    "subtitle": "",
+    "tenants": {
+      "title": "Staranny dobor najemcow",
+      "text": "Sprawdzamy rejestry, dochody i referencje. Minimalizujemy ryzyko nieplacenia i problematycznych najemcow."
+    },
+    "guarantee": {
+      "title": "Gwarantowany dochod (dla wybranych taryf)",
+      "text": "Z taryfami premium otrzymujesz czynsz nawet wtedy, gdy mieszkanie jest puste lub najemca placi z opoznieniem."
+    },
+    "management": {
+      "title": "Obsluga napraw i konserwacji technicznej",
+      "text": "Zajmiemy sie wszystkimi naprawami, konserwacja, kontrolami, komunikacja z dostawcami i rocznym rozliczeniem."
+    },
+    "legal": {
+      "title": "Kompletna obsluga prawna i administracyjna",
+      "text": "Profesjonalne umowy najmu, protokoly przekazania, komunikacja z najemcami, wspolnota mieszkaniowa i urzedami - wszystko za Ciebie."
+    }
+  },
+  "pricing": {
+    "title": "Nasze taryfy",
+    "subtitle": "Nasze ceny sa przejrzyste. Zadnych ukrytych oplat, tylko jasno okreslony procent miesiecznego czynszu.",
+    "start": {
+      "name": "Plan START",
+      "price": "12% czynszu",
+      "description": "Kompletne zarzadzanie, weryfikacja najemcow, umowy, przekazanie mieszkania, komunikacja.",
+      "cta": "Wybierz plan START",
+      "features": {
+        "1": "Reklama nieruchomosci i marketing",
+        "2": "Dobor i kompletna weryfikacja najemcow",
+        "3": "Przygotowanie i podpisanie umow najmu",
+        "4": "Przekazanie mieszkania i sporzadzenie protokolu",
+        "5": "Komunikacja z najemcami",
+        "6": "Rozliczanie oplat za uslugi"
+      }
+    },
+    "plus": {
+      "name": "Plan PLUS",
+      "price": "15% czynszu",
+      "description": "Rozszerzona opieka + gwarancja 50% czynszu.",
+      "cta": "Wybierz plan PLUS",
+      "features": {
+        "1": "Wszystko z planu START",
+        "2": "Gwarancja 50% czynszu",
+        "3": "Drobne naprawy w cenie",
+        "4": "Regularne raporty"
+      }
+    },
+    "premium": {
+      "name": "Plan PREMIUM",
+      "badge": "Polecamy",
+      "price": "20% czynszu",
+      "description": "Maksymalne bezpieczenstwo. Priorytetowa opieka + 100% gwarancja czynszu nawet przy pustostanie.",
+      "cta": "Wybierz plan PREMIUM",
+      "features": {
+        "1": "Wszystko z planu START",
+        "2": "100% GWARANCJA CZYNSZU nawet przy pustostanie",
+        "3": "Gwarantowana platnosc czynszu nawet przy opoznieniu najemcy",
+        "4": "Drobne naprawy i konserwacja w cenie",
+        "5": "Regularne fizyczne inspekcje nieruchomosci (co 6 miesiecy)",
+        "6": "Priorytetowa obsluga i obsluga roszczen ubezpieczeniowych"
       }
     }
   },
   "about": {
-    "subtitle": "O MNIE",
-    "title": "PAVEL JAROŠ",
-    "intro": "Nazywam się Pavel Jaroš i jestem agentem nieruchomości, który nieustannie dąży do rozwoju zawodowego i doskonalenia w tej dziedzinie.",
-    "origin": "Pochodzę z Chebu i od czterech lat działam w nieruchomościach jako inwestor (zakup - renowacja - sprzedaż). Zajmuję się bardzo popularnym tzw. flippingiem nieruchomości.",
-    "motivation": "Ponieważ chciałbym się doskonalić w tej dziedzinie, zdecydowałem się na ścieżkę agenta nieruchomości. Ta praca sprawia mi przyjemność głównie ze względu na jej różnorodność. Zajmuję się nie tylko biznesem, ale także kwestiami prawnymi i samą budową. Każdy dzień jest inny, co mnie wypełnia.",
-    "passion": "Lubię znajdować odpowiednie rozwiązania, komunikować się, łączyć dostawców, inwestorów i wszystko inne związane z nieruchomościami. Lubię spotykać nowych ludzi i rozwiązywać sprawy, z którymi inni sobie nie radzą. Zadowolenie klientów jest dla mnie najwyższą nagrodą.",
-    "values": "Charakteryzuję się empatią i w pełni rozumiem, że każdy klient wymaga indywidualnego i elastycznego podejścia. Cenię dobrą reputację i imię.",
-    "hobby": "W wolnym czasie lubię uprawiać sport, nie wyobrażam już sobie dobrze spędzonego dnia bez wizyty na siłowni. Jako prawdziwy entuzjasta kocham też adrenalinę - skoki spadochronowe i wszelkie atrakcje adrenalinowe, idę na całość. Życie trzeba żyć.",
-    "location": {
-      "title": "LOKALIZACJA",
-      "text": "Działam głównie w Pradze, w regionach środkowoczeskim i zachodnioczeski, ale jestem otwarty na współpracę w całej Republice Czeskiej."
-    },
-    "experience": {
-      "title": "JAK DŁUGO?",
-      "text1": "Jako inwestor nieruchomości mam za sobą cztery lata udanych projektów, w tym kilka udanych flippingów nieruchomości.",
-      "text2": "Do niedawna sam organizowałem kompletne remonty mieszkań w ich pierwotnym stanie, teraz mam małą firmę budowlaną i nie stanowi dla mnie problemu pomoc klientowi w czymkolwiek i modyfikacja nieruchomości tak, aby rezultatem była łatwa sprzedaż i wyższy zysk."
-    },
-    "commission": {
-      "title": "PROWIZJA",
-      "text": "Przy sprzedaży nieruchomości opłata znana jako prowizja jest płacona przez sprzedającego. Ostatecznie jest to logiczne, ponieważ sprzedający jest tym, kto wybiera agenta i którego interesy agent broni. Kwota prowizji nie jest stała i może się różnić w zależności od wielu czynników, takich jak strategia sprzedaży, budżet marketingowy, lokalizacja i cena nieruchomości. Jednak prowizja zazwyczaj mieści się w przedziale 3 - 5% ceny zakupu nieruchomości."
-    },
-    "why": {
-      "title": "DLACZEGO WARTO ZE MNĄ WSPÓŁPRACOWAĆ?",
-      "individual": "Indywidualne podejście zorientowane na klienta",
-      "professional": "Profesjonalna prezentacja nieruchomości",
-      "efficiency": "Efektywność",
-      "experience": "Wieloletnie doświadczenie w nieruchomościach",
-      "flexibility": "Elastyczność"
+    "title": "Twoja nieruchomosc w rekach eksperta z regionu Karlovy Vary",
+    "intro": "Zespol kierowany przez Pavla Jarosa swiadczy profesjonalne uslugi w zakresie wynajmu i zarzadzania nieruchomosciami z ponad 15-letnim doswiadczeniem na rynku nieruchomosci.",
+    "motivation": "Jestesmy czescia grupy PJ Group - PJ Reality, PJ Reko, PJ Sprava i PJ Design.",
+    "group": {
+      "title": "Czesc silnej grupy",
+      "subtitle": "Kompleksowe uslugi pod jednym dachem",
+      "reality": "Profesjonalna sprzedaz i zakup nieruchomosci.",
+      "reconstruction": "Zwiekszenie wartosci inwestycji poprzez kompletna renowacje.",
+      "design": "Projekt wnetrz, ktory przyciaga najlepszych najemcow."
     }
   },
   "references": {
-    "subtitle": "CO MÓWIĄ O MNIE MOJE KLIENCI",
-    "title": "REFERENCJE",
+    "title": "Co mowia nasi klienci",
     "client1": {
-      "name": "Daniela Baudýsová",
-      "text": "Dziękujemy za szybką i bezproblemową sprzedaż domku. Pan Jaroš jest pomocny, uczynny i bardzo profesjonalny. Rozumie swoją pracę. Zdecydowanie polecamy."
+      "name": "Petr N., Praga",
+      "subtitle": "wlasciciel mieszkania 2+1 w Karlovych Varach",
+      "text": "Mieszkam w Pradze i powierzam moje mieszkanie w Karlovych Varach pod zarzadzanie od kilku lat. Dzieki panu Jarosovi wszystko dziala i pieniadze przychodza na czas. Calkowita satysfakcja."
     },
     "client2": {
-      "name": "David",
-      "text": "Pan Jaroš był świetny - profesjonalny, szybki i zawsze dostępny. Czasami miałem wrażenie, że gdyby było trzeba, sprzedałby własną babcię - a mimo to wynegocjowałby lepszą cenę. Dzięki za bezproblemową sprzedaż i ludzkie podejście."
+      "name": "Ing. Jana D., Cheb",
+      "subtitle": "wlascicielka mieszkania 3+kk",
+      "text": "Plan PREMIUM daje mi absolutne bezpieczenstwo dochodow i przede wszystkim spokoj."
+    }
+  },
+  "faq": {
+    "title": "Masz pytania? Mamy odpowiedzi.",
+    "q1": {
+      "question": "Co sie stanie, jesli najemca nie placi?",
+      "answer": "W planie START natychmiast wszczynamy standardowy proces windykacji dlugu i komunikujemy sie z najemca. W planie PREMIUM nawet nie zauwazysz tej sytuacji - wyslemy Ci gwarantowany czynsz z naszych wlasnych srodkow i rozwiazujemy cala sytuacje na wlasny koszt."
     },
-    "client3": {
-      "name": "Josef Neumann",
-      "text": "Proaktywne podejście i doskonała komunikacja. Maksymalna satysfakcja!"
+    "q2": {
+      "question": "Jak przebiega proces wyboru najemcy?",
+      "answer": "Jest to wieloetapowy proces. Reklamujemy na najwiekszych portalach, filtrujemy kandydatow, sprawdzamy ich w dostepnych rejestrach, weryfikujemy ich zdolnosc kredytowa i prowadzimy osobiste rozmowy. Ostateczny wybor najodpowiedniejszych kandydatow zawsze konsultujemy z Toba."
+    },
+    "q3": {
+      "question": "Co jesli w mieszkaniu cos trzeba naprawic?",
+      "answer": "Drobne naprawy (w ramach planu PREMIUM) sa realizowane natychmiast z naszymi zweryfikowanymi rzemielnikami. W przypadku wiekszych napraw niezwlocznie sie z Toba skontaktujemy, przedstawimy zakres, budzet i po Twojej zgodzie zapewnimy kompletna realizacje."
+    },
+    "q4": {
+      "question": "Jaka jest dlugosc umowy o zarzadzanie?",
+      "answer": "Umowe o zarzadzanie standardowo zawieramy na 12 miesiecy z automatycznym przedluzeniem i jasno okreslonym trzymiesiecznym okresem wypowiedzenia. Jestesmy elastyczni i mozemy dostosowac warunki wedlug indywidualnych uzgodnien."
     }
   },
   "contact": {
-    "subtitle": "POZOSTAŃMY W KONTAKCIE",
-    "title": "KONTAKT",
-    "address": {
-      "title": "ADRES",
-      "text": "Kaprova 52/6, Praga 1"
-    },
-    "phone": {
-      "title": "TELEFON",
-      "text": "+420 777 558 730"
-    },
-    "email": {
-      "title": "E-MAIL",
-      "text": "pavel.jaros@kwcz.cz"
-    },
+    "title": "Zacznij zarabiac bez zmartwien juz dzis.",
+    "subtitle": "Napisz do nas o swojej nieruchomosci. W ciagu 24 godzin skontaktujemy sie z Toba z niezobowiazujaca propozycja i oszacowaniem rynkowego czynszu. Konsultacja jest zawsze bezplatna.",
+    "phone": "+420 777 558 730",
+    "email": "pavel.jaros@kwcz.cz",
+    "address": "Region Karlovy Vary",
     "form": {
-      "name": "Imię i nazwisko",
-      "email": "E-mail",
-      "phone": "Numer telefonu",
-      "message": "Twoja wiadomość",
-      "weekend": "Czy możemy skontaktować się z Tobą w weekendy?",
-      "gdpr": "Czy zgadzasz się na przetwarzanie danych osobowych zgodnie z ustawą nr 101/2000 Dz.U. o ochronie danych osobowych",
-      "submit": "WYŚLIJ"
+      "name": "Twoje imie i nazwisko*",
+      "email": "Twoj e-mail*",
+      "phone": "Twoj telefon*",
+      "propertyAddress": "Adres nieruchomosci (opcjonalnie)",
+      "message": "Twoja wiadomosc (np. o jakie mieszkanie chodzi)",
+      "gdpr": "Wyrazzam zgode na przetwarzanie danych osobowych.*",
+      "submit": "Wyslij niezobowiazujace zapytanie",
+      "sending": "Wysylanie...",
+      "success": "Dziekujemy za wiadomosc! Odezwiemy sie najszybciej jak to mozliwe.",
+      "error": "Wystapil blad podczas wysylania formularza. Sprobuj ponownie."
     }
   },
   "footer": {
-    "gdpr": "Przeglądając stronę, zgadzasz się na przetwarzanie danych osobowych i plików cookie.",
-    "business": "Jednoosobowy przedsiębiorca, prowadzący działalność na podstawie licencji handlowej, ID: 10846671, upoważniony do działania w imieniu Keller Williams Metropolitan, będącego placówką MC Metropolitan s.r.o., ID: 07796340.",
-    "ethics": "Kodeks etyczny",
-    "consumer": "Informacje dla konsumentów",
-    "whistleblow": "Wewnętrzny system zgłaszania"
+    "contact": {
+      "title": "Kontakt",
+      "name": "Pavel Jaros",
+      "phone": "+420 777 558 730",
+      "email": "pavel.jaros@kwcz.cz",
+      "ico": "ID: 10846671",
+      "address": "Kaprova 52/6, Praga 1"
+    },
+    "services": {
+      "title": "Grupa PJ",
+      "reality": "PJ-Reality",
+      "reconstruction": "PJ-Rekonstrukce",
+      "design": "PJ-Design"
+    },
+    "info": {
+      "title": "Informacje",
+      "services": "Uslugi",
+      "pricing": "Cennik",
+      "faq": "Czesto zadawane pytania"
+    },
+    "copyright": "\u00a9 2025 PJ-Sprava. Wszelkie prawa zastrzezone.",
+    "privacy": "Polityka prywatnosci"
   }
 }

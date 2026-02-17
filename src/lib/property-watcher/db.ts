@@ -72,7 +72,7 @@ export class PropertyDatabase {
       }
 
       // Připrav update data
-      const updateData: any = {};
+      const updateData: Record<string, unknown> = {};
 
       if (data) {
         if (data.title) updateData.title = data.title;
@@ -137,7 +137,7 @@ export class PropertyDatabase {
 
     } catch (error) {
       // Pokud nemovitost neexistuje, není to chyba
-      if ((error as any).code === 'P2025') {
+      if ((error as { code?: string }).code === 'P2025') {
         console.log(`[DB] ⚠ Property ${folderId} already deleted or doesn't exist`);
         return;
       }

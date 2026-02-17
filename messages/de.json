@@ -1,149 +1,233 @@
 {
-  "nav": {
-    "properties": "Immobilien",
-    "services": "Dienstleistungen",
-    "references": "Referenzen",
-    "about": "Über mich",
-    "contact": "Kontakt",
-    "contactMe": "KONTAKTIEREN SIE MICH"
-  },
   "cookie": {
-    "message": "Um die bestmöglichen Dienste bereitzustellen, verwenden wir Technologien wie Cookies zum Speichern und/oder Zugreifen auf Geräteinformationen.",
-    "reject": "Ablehnen",
-    "accept": "Akzeptieren",
+    "message": "Diese Website verwendet Cookies, um Ihre Erfahrung zu verbessern. Durch die Nutzung dieser Website stimmen Sie unserer Cookie-Richtlinie zu.",
+    "accept": "Alle akzeptieren",
+    "reject": "Alle ablehnen",
     "preferences": "Einstellungen anzeigen"
   },
+  "nav": {
+    "services": "Dienstleistungen",
+    "pricing": "Preise",
+    "howItWorks": "So funktioniert es",
+    "about": "Über uns",
+    "references": "Referenzen",
+    "contact": "Kontakt",
+    "cta": "Unverbindliche Anfrage"
+  },
   "hero": {
-    "title": "Maximieren Sie den Gewinn aus Ihrer Immobilie",
-    "cta": "MEINE ANGEBOTENEN DIENSTLEISTUNGEN"
+    "title": "Sorgenfreie Mieteinnahmen. Jeden Monat, unter allen Umständen.",
+    "subtitle": "Vertrauen Sie Ihre Immobilie Profis an und genießen Sie stabile Einnahmen ohne einen einzigen Anruf von Mietern. Wir kümmern uns um alles – von der Auswahl zuverlässiger Mieter bis hin zu regelmäßigen Inspektionen und komplettem Service. Ihre Wohnung. Unsere Sorge. Ihre Ruhe.",
+    "cta": "Ich möchte sorglos vermieten"
   },
-  "properties": {
-    "viewProperty": "IMMOBILIE ANSEHEN",
-    "moreProperties": "MEHR IMMOBILIEN"
+  "whyUs": {
+    "title": "Warum unsere Mietverwaltung wählen?",
+    "item1": {
+      "title": "Komplette Mietverwaltung von A bis Z",
+      "text": "Wir prüfen Mieter, bereiten Verträge vor, sorgen für die Wohnungsübergabe, Kommunikation und Abrechnung. Sie müssen sich um nichts kümmern."
+    },
+    "item2": {
+      "title": "Transparente Verträge",
+      "text": "Keine Sternchen oder Überraschungen. Verträge sind verständlich, fair und übersichtlich."
+    },
+    "item3": {
+      "title": "Schnelle Reaktion innerhalb von 24 Stunden",
+      "text": "Wann immer Mieter etwas brauchen, kümmern wir uns sofort darum. Sie erfahren davon nur in regelmäßigen Berichten."
+    },
+    "item4": {
+      "title": "Wir maximieren Ihren Gewinn",
+      "text": "Wir setzen die optimale Miethöhe fest, minimieren Risiken und sorgen dafür, dass Ihre Immobilie voll verdient."
+    }
   },
-  "services": {
-    "title": "DIENSTLEISTUNGEN",
-    "bookMeeting": "TERMIN VEREINBAREN",
-    "sale": {
-      "title": "VERKAUF",
-      "description": "Mein Ziel ist es, Ihre Immobilie zum höchstmöglichen Preis auf dem Markt zu verkaufen und sicherzustellen, dass der gesamte Prozess reibungslos und effizient abläuft."
+  "target": {
+    "title": "Für wen ist der Service ideal?",
+    "subtitle": "",
+    "investor": {
+      "title": "Investoren",
+      "text": "Investoren, die passives Einkommen ohne Arbeit wollen."
     },
-    "rent": {
-      "title": "VERMIETUNG",
-      "description": "Ich strebe immer danach, den höchstmöglichen Mietpreis zu erzielen und gleichzeitig zahlungskräftige Mieter zu finden, die an einer langfristigen Miete interessiert sind."
+    "remote": {
+      "title": "Eigentümer außerhalb der Region",
+      "text": "Eigentümer, die außerhalb der Region Karlovy Vary oder im Ausland leben und sich nicht persönlich um die Immobilie kümmern können."
     },
-    "marketing": {
-      "title": "MARKETING & STRATEGIE",
-      "description": "Marketing und Werbung sind ein wesentlicher Bestandteil meiner Arbeit. Ich lege Wert auf die Wahl der richtigen Strategie mit maximalem Engagement."
+    "time": {
+      "title": "Vielbeschäftigte Berufstätige",
+      "text": "Vielbeschäftigte Berufstätige, die ihre Zeit sich selbst widmen möchten, nicht der Lösung von Reparaturen und Kommunikation mit Mietern."
     },
-    "presentation": {
-      "title": "IMMOBILIENPRÄSENTATION",
-      "description": "Bei der Präsentation einer Immobilie lege ich immer Wert auf Details unter Verwendung der neuesten Technologien, einschließlich hochwertiger Fotografie und 3D-Visualisierungen."
+    "everyone": {
+      "title": "Jeden",
+      "text": "Jeden, der zuverlässige Erträge ohne Sorgen möchte."
+    }
+  },
+  "process": {
+    "title": "Wie funktioniert die Mietverwaltung? Einfach. In 4 Schritten.",
+    "subtitle": "Der gesamte Prozess ist schnell, transparent und für Ihren maximalen Komfort konzipiert.",
+    "step1": {
+      "title": "Unverbindliche Beratung",
+      "text": "Wir besprechen Ihre Immobilie, Ziele und Möglichkeiten – unverbindlich und kostenlos."
     },
-    "reconstruction": {
-      "title": "IMMOBILIENREKONSTRUKTION",
-      "description": "Dank der Erfahrung aus mehreren vollständigen Rekonstruktionen kann ich geeignete Lösungen empfehlen und bei Bedarf Fachleute organisieren."
+    "step2": {
+      "title": "Tarifvorschlag und optimale Miete",
+      "text": "Wir empfehlen den besten Tarif und setzen die Miete so, dass sie verdient."
     },
-    "valuation": {
-      "title": "IMMOBILIENBEWERTUNG",
-      "description": "Für die Immobilienbewertung verwende ich bewährte Werkzeuge wie Preiskarten zusammen mit dem Grundbuch."
+    "step3": {
+      "title": "Unterzeichnung eines transparenten Vertrags",
+      "text": "Ein einfacher, fairer und klarer Vertrag ohne versteckte Bedingungen."
     },
-    "activities": {
-      "subtitle": "WOBEI ICH MEINEN KUNDEN AM HÄUFIGSTEN HELFE",
-      "title": "MEINE ARBEIT UMFASST FOLGENDE TÄTIGKEITEN",
-      "list": {
-        "communication": "Geschäftskommunikation mit Interessenten",
-        "targeting": "Identifizierung und Spezifikation der Zielgruppe",
-        "negotiation": "Verhandlung der besten Verkaufsbedingungen",
-        "documentation": "Dokumentationsvorbereitung",
-        "supervision": "Überwachung des Geschäftsfalls von Anfang bis Ende",
-        "strategy": "Festlegung der Marketingstrategie und Förderung",
-        "socialMedia": "Bezahlte Werbung in sozialen Medien",
-        "materials": "Vorbereitung und Erstellung von Werbematerialien",
-        "flyers": "Flyer-Verteilung",
-        "print": "Platzierung von Anzeigen in Printmedien",
-        "portals": "Veröffentlichung von Inseraten auf allen Immobilienportalen",
-        "websites": "Erstellung von Websites für Immobilien"
+    "step4": {
+      "title": "Sie kassieren, wir kümmern uns",
+      "text": "Wir kümmern uns um alles von Mietern bis zur Wartung. Sie beobachten nur die eingehenden Zahlungen."
+    }
+  },
+  "benefits": {
+    "title": "Was regeln wir alles für Sie?",
+    "subtitle": "",
+    "tenants": {
+      "title": "Sorgfältige Mieterauswahl",
+      "text": "Wir prüfen Register, Einkommen und Referenzen. Wir minimieren das Risiko von Nichtzahlern und problematischen Mietern."
+    },
+    "guarantee": {
+      "title": "Garantiertes Einkommen (bei ausgewählten Tarifen)",
+      "text": "Mit Premium-Tarifen erhalten Sie Miete auch dann, wenn die Wohnung leer steht oder der Mieter verspätet zahlt."
+    },
+    "management": {
+      "title": "Reparatur- und technische Wartungsabdeckung",
+      "text": "Wir kümmern uns um alle Reparaturen, Wartung, Inspektionen, Kommunikation mit Lieferanten und Jahresabrechnung."
+    },
+    "legal": {
+      "title": "Kompletter Rechts- und Verwaltungsservice",
+      "text": "Professionelle Mietverträge, Übergabeprotokolle, Kommunikation mit Mietern, Eigentümergemeinschaft und Behörden – alles für Sie."
+    }
+  },
+  "pricing": {
+    "title": "Unsere Tarife",
+    "subtitle": "Unsere Preise sind transparent. Keine versteckten Gebühren, nur ein klar definierter Prozentsatz der monatlichen Miete.",
+    "start": {
+      "name": "START Tarif",
+      "price": "12 % der Miete",
+      "description": "Komplette Verwaltung, Mieterprüfung, Verträge, Wohnungsübergabe, Kommunikation.",
+      "cta": "START Tarif wählen",
+      "features": {
+        "1": "Immobilieninserate und Marketing",
+        "2": "Auswahl und vollständige Mieterprüfung",
+        "3": "Vorbereitung und Unterzeichnung von Mietverträgen",
+        "4": "Wohnungsübergabe und Protokollerstellung",
+        "5": "Kommunikation mit Mietern",
+        "6": "Nebenkostenabrechnung"
+      }
+    },
+    "plus": {
+      "name": "PLUS Tarif",
+      "price": "15 % der Miete",
+      "description": "Erweiterte Betreuung + 50% Mietgarantie.",
+      "cta": "PLUS Tarif wählen",
+      "features": {
+        "1": "Alles aus dem START Tarif",
+        "2": "50% Mietgarantie",
+        "3": "Kleine Reparaturen abgedeckt",
+        "4": "Regelmäßige Berichte"
+      }
+    },
+    "premium": {
+      "name": "PREMIUM Tarif",
+      "badge": "Empfohlen",
+      "price": "20 % der Miete",
+      "description": "Maximale Sicherheit. Prioritätsbetreuung + 100% Mietgarantie auch bei Leerstand.",
+      "cta": "PREMIUM Tarif wählen",
+      "features": {
+        "1": "Alles aus dem START Tarif",
+        "2": "100% MIETGARANTIE auch bei Leerstand",
+        "3": "Garantierte Mietzahlung auch bei Zahlungsverzug des Mieters",
+        "4": "Kleine Reparaturen und Wartung abgedeckt",
+        "5": "Regelmäßige physische Immobilieninspektionen (alle 6 Monate)",
+        "6": "Prioritätsservice und Versicherungsfall-Bearbeitung"
       }
     }
   },
   "about": {
-    "subtitle": "ÜBER MICH",
-    "title": "PAVEL JAROŠ",
-    "intro": "Ich heiße Pavel Jaroš und bin ein Immobilienmakler, der ständig nach beruflichem Wachstum und Verbesserung in diesem Bereich strebt.",
-    "origin": "Ich komme aus Cheb und bin seit vier Jahren als Investor im Immobilienbereich tätig (Kauf - Rekonstruktion - Verkauf). Ich beschäftige mich mit dem sehr beliebten sogenannten Immobilien-Flipping.",
-    "motivation": "Da ich mich in diesem Bereich verbessern möchte, habe ich mich für den Weg eines Immobilienmaklers entschieden. Diese Arbeit macht mir vor allem wegen ihrer Vielfalt Spaß. Ich beschäftige mich nicht nur mit Geschäften, sondern auch mit rechtlichen Fragen und dem Bau selbst. Jeder Tag ist anders, was mich erfüllt.",
-    "passion": "Ich finde gerne geeignete Lösungen, kommuniziere, verbinde Lieferanten, Investoren und alles andere, was mit Immobilien zu tun hat. Ich treffe gerne neue Menschen und löse Fälle, die andere nicht bewältigen können. Kundenzufriedenheit ist für mich die höchste Belohnung.",
-    "values": "Ich zeichne mich durch Empathie aus und verstehe vollkommen, dass jeder Kunde einen individuellen und flexiblen Ansatz erfordert. Ich lege Wert auf einen guten Ruf und Namen.",
-    "hobby": "In meiner Freizeit treibe ich gerne Sport, ich kann mir einen gut verbrachten Tag ohne Fitnessstudio nicht mehr vorstellen. Als richtiger Enthusiast liebe ich auch Adrenalin - Fallschirmsprünge und alle Adrenalin-Attraktionen, ich gehe voll rein. Das Leben muss gelebt werden.",
-    "location": {
-      "title": "STANDORT",
-      "text": "Ich bin hauptsächlich in Prag, in der mittelböhmischen und westböhmischen Region tätig, bin aber offen für eine Zusammenarbeit in der gesamten Tschechischen Republik."
-    },
-    "experience": {
-      "title": "WIE LANGE?",
-      "text1": "Als Immobilieninvestor habe ich vier Jahre erfolgreicher Projekte hinter mir, darunter mehrere erfolgreiche Immobilien-Flips.",
-      "text2": "Bis vor kurzem habe ich komplette Wohnungsrenovierungen in ihrem ursprünglichen Zustand selbst organisiert, jetzt habe ich eine kleine Baufirma und es ist daher kein Problem für mich, einem Kunden bei allem zu helfen und die Immobilie so zu modifizieren, dass das Ergebnis ein einfacher Verkauf und höherer Gewinn ist."
-    },
-    "commission": {
-      "title": "PROVISION",
-      "text": "Beim Verkauf einer Immobilie wird die als Provision bekannte Gebühr vom Verkäufer bezahlt. Letztendlich ist dies logisch, weil der Verkäufer derjenige ist, der den Makler auswählt und dessen Interessen der Makler verteidigt. Die Provisionshöhe ist nicht festgelegt und kann je nach einer Reihe von Faktoren wie Verkaufsstrategie, Marketingbudget, Standort und Immobilienpreis variieren. In der Regel liegt die Provision jedoch zwischen 3 - 5% des Kaufpreises der Immobilie."
-    },
-    "why": {
-      "title": "WARUM MIT MIR ARBEITEN?",
-      "individual": "Individueller kundenorientierter Ansatz",
-      "professional": "Professionelle Immobilienpräsentation",
-      "efficiency": "Effizienz",
-      "experience": "Langjährige Erfahrung im Immobilienbereich",
-      "flexibility": "Flexibilität"
+    "title": "Ihr Eigentum in den Händen eines Experten aus der Region Karlovy Vary",
+    "intro": "Das von Pavel Jaros geleitete Team bietet professionelle Dienstleistungen im Bereich Vermietung und Immobilienverwaltung mit über 15 Jahren Erfahrung auf dem Immobilienmarkt.",
+    "motivation": "Wir sind Teil der PJ Group – PJ Reality, PJ Reko, PJ Sprava und PJ Design.",
+    "group": {
+      "title": "Teil einer starken Gruppe",
+      "subtitle": "Umfassende Dienstleistungen unter einem Dach",
+      "reality": "Professioneller Immobilienverkauf und -kauf.",
+      "reconstruction": "Wertsteigerung Ihrer Investition durch komplette Renovierung.",
+      "design": "Innenarchitektur, die die besten Mieter anzieht."
     }
   },
   "references": {
-    "subtitle": "WAS MEINE KUNDEN ÜBER MICH SAGEN",
-    "title": "REFERENZEN",
+    "title": "Was unsere Kunden sagen",
     "client1": {
-      "name": "Daniela Baudýsová",
-      "text": "Vielen Dank für den schnellen und problemlosen Verkauf des Ferienhauses. Herr Jaroš ist hilfsbereit, entgegenkommend und sehr professionell. Er versteht seine Arbeit. Wir empfehlen ihn auf jeden Fall weiter."
+      "name": "Petr N., Prag",
+      "subtitle": "Eigentümer einer 2+1 Wohnung in Karlovy Vary",
+      "text": "Ich lebe in Prag und vertraue meine Wohnung in Karlovy Vary seit mehreren Jahren der Verwaltung an. Dank Herrn Jaros funktioniert alles und das Geld kommt pünktlich. Vollste Zufriedenheit."
     },
     "client2": {
-      "name": "David",
-      "text": "Herr Jaroš war großartig - professionell, schnell und immer verfügbar. Manchmal hatte ich das Gefühl, dass er bei Bedarf seine eigene Großmutter verkaufen würde - und trotzdem einen besseren Preis aushandeln würde. Danke für den problemlosen Verkauf und die menschliche Herangehensweise."
+      "name": "Ing. Jana D., Cheb",
+      "subtitle": "Eigentümerin einer 3+kk Wohnung",
+      "text": "Der PREMIUM-Tarif gibt mir absolute Einkommenssicherheit und vor allem Ruhe."
+    }
+  },
+  "faq": {
+    "title": "Haben Sie Fragen? Wir haben Antworten.",
+    "q1": {
+      "question": "Was passiert, wenn ein Mieter nicht zahlt?",
+      "answer": "Beim START-Tarif leiten wir sofort ein standardmäßiges Inkassoverfahren ein und kommunizieren mit dem Mieter. Beim PREMIUM-Tarif bemerken Sie diese Situation gar nicht - wir senden Ihnen die garantierte Miete aus unseren eigenen Mitteln und lösen die gesamte Situation auf unsere Kosten."
     },
-    "client3": {
-      "name": "Josef Neumann",
-      "text": "Proaktiver Ansatz und perfekte Kommunikation. Maximale Zufriedenheit!"
+    "q2": {
+      "question": "Wie funktioniert der Mieterauswahlprozess?",
+      "answer": "Es ist ein mehrstufiger Prozess. Wir inserieren auf den größten Portalen, filtern Bewerber, überprüfen sie in verfügbaren Registern, verifizieren ihre Bonität und führen persönliche Gespräche. Die endgültige Auswahl der geeignetsten Kandidaten besprechen wir immer mit Ihnen."
+    },
+    "q3": {
+      "question": "Was wenn in der Wohnung etwas repariert werden muss?",
+      "answer": "Kleine Reparaturen (im Rahmen des PREMIUM-Tarifs) werden sofort mit unseren geprüften Handwerkern erledigt. Bei größeren Reparaturen kontaktieren wir Sie umgehend, stellen den Umfang und das Budget vor und sorgen nach Ihrer Genehmigung für die komplette Durchführung."
+    },
+    "q4": {
+      "question": "Wie lang ist die Laufzeit des Verwaltungsvertrags?",
+      "answer": "Wir schließen den Verwaltungsvertrag standardmäßig für 12 Monate mit automatischer Verlängerung und einer klar definierten dreimonatigen Kündigungsfrist ab. Wir sind flexibel und können die Bedingungen nach individueller Vereinbarung anpassen."
     }
   },
   "contact": {
-    "subtitle": "IN KONTAKT BLEIBEN",
-    "title": "KONTAKT",
-    "address": {
-      "title": "ADRESSE",
-      "text": "Kaprova 52/6, Prag 1"
-    },
-    "phone": {
-      "title": "TELEFON",
-      "text": "+420 777 558 730"
-    },
-    "email": {
-      "title": "E-MAIL",
-      "text": "pavel.jaros@kwcz.cz"
-    },
+    "title": "Beginnen Sie noch heute sorglos zu verdienen.",
+    "subtitle": "Schreiben Sie uns über Ihre Immobilie. Innerhalb von 24 Stunden kontaktieren wir Sie mit einem unverbindlichen Vorschlag und einer Marktmietschätzung. Die Beratung ist immer kostenlos.",
+    "phone": "+420 777 558 730",
+    "email": "pavel.jaros@kwcz.cz",
+    "address": "Region Karlovy Vary",
     "form": {
-      "name": "Name und Nachname",
-      "email": "E-Mail",
-      "phone": "Telefonnummer",
-      "message": "Ihre Nachricht",
-      "weekend": "Können wir Sie am Wochenende kontaktieren?",
-      "gdpr": "Stimmen Sie der Verarbeitung personenbezogener Daten gemäß Gesetz Nr. 101/2000 Slg. über den Schutz personenbezogener Daten zu",
-      "submit": "SENDEN"
+      "name": "Ihr vollständiger Name*",
+      "email": "Ihre E-Mail*",
+      "phone": "Ihre Telefonnummer*",
+      "propertyAddress": "Immobilienadresse (optional)",
+      "message": "Ihre Nachricht (z.B. um welche Wohnung es sich handelt)",
+      "gdpr": "Ich stimme der Verarbeitung personenbezogener Daten zu.*",
+      "submit": "Unverbindliche Anfrage senden",
+      "sending": "Wird gesendet...",
+      "success": "Vielen Dank für Ihre Nachricht! Wir melden uns so schnell wie möglich bei Ihnen.",
+      "error": "Beim Senden des Formulars ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
     }
   },
   "footer": {
-    "gdpr": "Durch das Durchsuchen der Website stimmen Sie der Verarbeitung personenbezogener Daten und Cookies zu.",
-    "business": "Einzelunternehmer, der auf der Grundlage einer Gewerbeerlaubnis tätig ist, ID: 10846671, bevollmächtigt, im Namen von Keller Williams Metropolitan zu handeln, einer Niederlassung der MC Metropolitan s.r.o., ID: 07796340.",
-    "ethics": "Ethikkodex",
-    "consumer": "Verbraucherinformation",
-    "whistleblow": "Internes Meldesystem"
+    "contact": {
+      "title": "Kontakt",
+      "name": "Pavel Jaros",
+      "phone": "+420 777 558 730",
+      "email": "pavel.jaros@kwcz.cz",
+      "ico": "ID: 10846671",
+      "address": "Kaprova 52/6, Prag 1"
+    },
+    "services": {
+      "title": "PJ Gruppe",
+      "reality": "PJ-Reality",
+      "reconstruction": "PJ-Rekonstrukce",
+      "design": "PJ-Design"
+    },
+    "info": {
+      "title": "Informationen",
+      "services": "Dienstleistungen",
+      "pricing": "Preise",
+      "faq": "Häufig gestellte Fragen"
+    },
+    "copyright": "\u00a9 2025 PJ-Sprava. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie"
   }
 }

@@ -1,149 +1,233 @@
 {
-  "nav": {
-    "properties": "Properties",
-    "services": "Services",
-    "references": "References",
-    "about": "About Me",
-    "contact": "Contact",
-    "contactMe": "CONTACT ME"
-  },
   "cookie": {
-    "message": "To provide the best services, we use technologies such as cookies to store and/or access device information.",
-    "reject": "Reject",
-    "accept": "Accept",
-    "preferences": "View Preferences"
+    "message": "This website uses cookies to improve your experience. By using this site, you agree to our cookie policy.",
+    "accept": "Accept all",
+    "reject": "Reject all",
+    "preferences": "View preferences"
+  },
+  "nav": {
+    "services": "Services",
+    "pricing": "Pricing",
+    "howItWorks": "How it works",
+    "about": "About us",
+    "references": "References",
+    "contact": "Contact",
+    "cta": "Free inquiry"
   },
   "hero": {
-    "title": "Maximize the profit from your property",
-    "cta": "MY OFFERED SERVICES"
+    "title": "Worry-free rental income. Every month, under all circumstances.",
+    "subtitle": "Entrust your property to professionals and enjoy stable income without a single call from tenants. We take care of everything - from selecting reliable tenants to regular inspections and complete service. Your apartment. Our concern. Your peace of mind.",
+    "cta": "I want hassle-free renting"
   },
-  "properties": {
-    "viewProperty": "VIEW PROPERTY",
-    "moreProperties": "MORE PROPERTIES"
+  "whyUs": {
+    "title": "Why choose our rental management?",
+    "item1": {
+      "title": "Complete rental management from A to Z",
+      "text": "We vet tenants, prepare contracts, ensure apartment handover, communication and billing. You don't worry about anything."
+    },
+    "item2": {
+      "title": "Transparent contracts",
+      "text": "No asterisks or surprises. Contracts are clear, fair and straightforward."
+    },
+    "item3": {
+      "title": "Fast response within 24 hours",
+      "text": "Whenever tenants need something, we handle it immediately. You only hear about it in regular reports."
+    },
+    "item4": {
+      "title": "We maximize your profit",
+      "text": "We set the optimal rent amount, minimize risks and ensure your property earns to its full potential."
+    }
   },
-  "services": {
-    "title": "SERVICES",
-    "bookMeeting": "BOOK A MEETING",
-    "sale": {
-      "title": "SALES",
-      "description": "My goal is to sell your property for the highest possible price on the market and ensure the entire process runs smoothly and efficiently."
+  "target": {
+    "title": "Who is the service ideal for?",
+    "subtitle": "",
+    "investor": {
+      "title": "Investors",
+      "text": "Investors who want passive income without any work."
     },
-    "rent": {
-      "title": "RENTAL",
-      "description": "I always strive to achieve the highest rental price while finding solvent tenants interested in long-term rental."
+    "remote": {
+      "title": "Out-of-region owners",
+      "text": "Owners living outside the Karlovy Vary region or abroad who cannot take care of the property in person."
     },
-    "marketing": {
-      "title": "MARKETING & STRATEGY",
-      "description": "Marketing and advertising are an integral part of my work. I take care in choosing the right strategy with maximum commitment."
+    "time": {
+      "title": "Busy professionals",
+      "text": "Busy professionals who want to spend their time on themselves, not dealing with repairs and communicating with tenants."
     },
-    "presentation": {
-      "title": "PROPERTY PRESENTATION",
-      "description": "When presenting a property, I always emphasize detail using the latest technologies, including quality photography and 3D visualizations."
+    "everyone": {
+      "title": "Everyone",
+      "text": "Anyone who wants reliable returns without worries."
+    }
+  },
+  "process": {
+    "title": "How does rental management work? Simply. In 4 steps.",
+    "subtitle": "The entire process is fast, transparent, and designed for your maximum comfort.",
+    "step1": {
+      "title": "Non-binding consultation",
+      "text": "We discuss your property, goals and options - non-binding and free of charge."
     },
-    "reconstruction": {
-      "title": "PROPERTY RECONSTRUCTION",
-      "description": "Thanks to experience from several complete reconstructions, I can recommend suitable solutions and arrange professionals if needed."
+    "step2": {
+      "title": "Tariff proposal and optimal rent",
+      "text": "We recommend the best tariff and set the rent to maximize your earnings."
     },
-    "valuation": {
-      "title": "PROPERTY VALUATION",
-      "description": "For property valuation, I use proven tools such as price maps together with the land registry."
+    "step3": {
+      "title": "Signing a transparent contract",
+      "text": "A simple, fair and clear contract with no hidden conditions."
     },
-    "activities": {
-      "subtitle": "WHAT I MOST OFTEN HELP MY CLIENTS WITH",
-      "title": "MY WORK INCLUDES THE FOLLOWING ACTIVITIES",
-      "list": {
-        "communication": "Business communication with prospects",
-        "targeting": "Identification and specification of target group",
-        "negotiation": "Negotiating the best sales conditions",
-        "documentation": "Documentation preparation",
-        "supervision": "Supervision of the business case from start to finish",
-        "strategy": "Setting marketing strategy and promotion",
-        "socialMedia": "Paid promotion on social media",
-        "materials": "Preparation and creation of advertising materials",
-        "flyers": "Flyer distribution",
-        "print": "Placement of advertisements in print media",
-        "portals": "Publishing listings on all real estate portals",
-        "websites": "Creating websites for properties"
+    "step4": {
+      "title": "You collect, we take care",
+      "text": "We handle everything from tenants to maintenance. You just watch the incoming payments."
+    }
+  },
+  "benefits": {
+    "title": "What will we arrange for you?",
+    "subtitle": "",
+    "tenants": {
+      "title": "Careful tenant selection",
+      "text": "We check registries, income and references. We minimize the risk of non-payers and problematic tenants."
+    },
+    "guarantee": {
+      "title": "Guaranteed income (for selected tariffs)",
+      "text": "With premium tariffs, you receive rent even when the apartment is empty or the tenant pays late."
+    },
+    "management": {
+      "title": "Repair and technical maintenance coverage",
+      "text": "We take care of all repairs, maintenance, inspections, communication with suppliers and annual billing."
+    },
+    "legal": {
+      "title": "Complete legal and administrative service",
+      "text": "Professional lease agreements, handover protocols, communication with tenants, HOA and authorities - all on your behalf."
+    }
+  },
+  "pricing": {
+    "title": "Our tariffs",
+    "subtitle": "Our prices are transparent. No hidden fees, just a clearly defined percentage of monthly rent.",
+    "start": {
+      "name": "START Plan",
+      "price": "12% of rent",
+      "description": "Complete management, tenant vetting, contracts, apartment handover, communication.",
+      "cta": "Choose START plan",
+      "features": {
+        "1": "Property advertising and marketing",
+        "2": "Selection and complete tenant vetting",
+        "3": "Preparation and signing of lease agreements",
+        "4": "Apartment handover and protocol creation",
+        "5": "Communication with tenants",
+        "6": "Service billing management"
+      }
+    },
+    "plus": {
+      "name": "PLUS Plan",
+      "price": "15% of rent",
+      "description": "Extended care + 50% rent guarantee.",
+      "cta": "Choose PLUS plan",
+      "features": {
+        "1": "Everything from the START plan",
+        "2": "50% rent guarantee",
+        "3": "Minor repairs covered",
+        "4": "Regular reports"
+      }
+    },
+    "premium": {
+      "name": "PREMIUM Plan",
+      "badge": "Recommended",
+      "price": "20% of rent",
+      "description": "Maximum security. Priority care + 100% rent guarantee even when the apartment is vacant.",
+      "cta": "Choose PREMIUM plan",
+      "features": {
+        "1": "Everything from the START plan",
+        "2": "100% RENT GUARANTEE even when the apartment is vacant",
+        "3": "Guaranteed rent payment even when the tenant pays late",
+        "4": "Minor repairs and maintenance covered",
+        "5": "Regular physical property inspections (every 6 months)",
+        "6": "Priority service and insurance claim handling"
       }
     }
   },
   "about": {
-    "subtitle": "ABOUT ME",
-    "title": "PAVEL JAROŠ",
-    "intro": "My name is Pavel Jaroš and I am a real estate agent who constantly strives for professional growth and improvement in the field.",
-    "origin": "I come from Cheb and have been in real estate for four years as an investor (purchase - reconstruction - sale). I deal with the very popular so-called property flipping.",
-    "motivation": "Since I would like to improve in this field, I decided to pursue the path of a real estate agent. I enjoy this work mainly because of its diversity. I deal not only with business, but also with legal issues and construction itself. Every day is different, which fulfills me.",
-    "passion": "I enjoy finding suitable solutions, communicating, connecting suppliers, investors and everything else related to real estate. I like meeting new people and solving cases that others don't know how to handle. Client satisfaction is the highest reward for me.",
-    "values": "I am characterized by empathy and fully understand that each client requires an individual and flexible approach. I value good reputation and name.",
-    "hobby": "In my free time, I enjoy sports, I can no longer imagine a well-spent day without visiting the gym. As a proper enthusiast, I also love adrenaline - parachute jumps and any adrenaline attractions, I go all in. Life must be lived.",
-    "location": {
-      "title": "LOCATION",
-      "text": "I operate mainly in Prague, in the Central Bohemian and West Bohemian regions, but I am open to cooperation throughout the Czech Republic."
-    },
-    "experience": {
-      "title": "HOW LONG?",
-      "text1": "As a real estate investor, I have four years of successful projects behind me, including several successful property flips.",
-      "text2": "Until recently, I arranged complete apartment renovations in their original state myself, now I have a small construction company and it is therefore no problem for me to help a client with anything and modify the property so that the result is easy sale and higher profit."
-    },
-    "commission": {
-      "title": "COMMISSION",
-      "text": "When selling a property, the fee known as commission is paid by the seller. Ultimately, this is logical because the seller is the one who chooses the agent and whose interests the agent defends. The commission amount is not fixed and may vary depending on a number of factors, such as sales strategy, marketing budget, location and property price. However, the commission usually ranges between 3 - 5% of the purchase price of the property."
-    },
-    "why": {
-      "title": "WHY WORK WITH ME?",
-      "individual": "Individual client-focused approach",
-      "professional": "Professional property presentation",
-      "efficiency": "Efficiency",
-      "experience": "Many years of experience in real estate",
-      "flexibility": "Flexibility"
+    "title": "Your property in the hands of an expert from the Karlovy Vary region",
+    "intro": "The team led by Pavel Jaros provides professional services in rental and property management with more than 15 years of experience in the real estate market.",
+    "motivation": "We are part of the PJ Group - PJ Reality, PJ Reko, PJ Sprava and PJ Design.",
+    "group": {
+      "title": "Part of a strong group",
+      "subtitle": "Comprehensive services under one roof",
+      "reality": "Professional property sales and purchases.",
+      "reconstruction": "Enhancing your investment through complete renovation.",
+      "design": "Interior design that attracts the best tenants."
     }
   },
   "references": {
-    "subtitle": "WHAT MY CLIENTS SAY ABOUT ME",
-    "title": "REFERENCES",
+    "title": "What our clients say",
     "client1": {
-      "name": "Daniela Baudýsová",
-      "text": "Thank you for the quick and trouble-free sale of the cottage. Mr. Jaroš is helpful, accommodating and very professional. He understands his work. We definitely recommend."
+      "name": "Petr N., Prague",
+      "subtitle": "owner of a 2+1 apartment in Karlovy Vary",
+      "text": "I live in Prague and have entrusted my apartment in Karlovy Vary to management for several years. Thanks to Mr. Jaros, everything works and the money arrives on time. Complete satisfaction."
     },
     "client2": {
-      "name": "David",
-      "text": "Mr. Jaroš was great - professional, fast and always available. Sometimes I felt that if needed, he would sell his own grandmother - and still negotiate a better price. Thanks for the trouble-free sale and human approach."
+      "name": "Ing. Jana D., Cheb",
+      "subtitle": "owner of a 3+kk apartment",
+      "text": "The PREMIUM plan gives me absolute income security and, most importantly, peace of mind."
+    }
+  },
+  "faq": {
+    "title": "Have questions? We have answers.",
+    "q1": {
+      "question": "What happens if a tenant doesn't pay?",
+      "answer": "With the START plan, we immediately initiate a standard debt collection process and communicate with the tenant. With the PREMIUM plan, you won't even notice this situation - we will send you the guaranteed rent from our own funds and handle the entire situation at our own expense."
     },
-    "client3": {
-      "name": "Josef Neumann",
-      "text": "Proactive approach and perfect communication. Maximum satisfaction!"
+    "q2": {
+      "question": "How does the tenant selection process work?",
+      "answer": "It is a multi-step process. We advertise on the largest portals, filter applicants, check them in available registries, verify their creditworthiness, and conduct personal interviews. We always consult with you on the final selection of the most suitable candidates."
+    },
+    "q3": {
+      "question": "What if something needs to be repaired in the apartment?",
+      "answer": "Minor repairs (within the PREMIUM plan) are handled immediately with our vetted craftsmen. For larger repairs, we will contact you promptly, present the scope, budget, and after your approval, ensure complete implementation."
+    },
+    "q4": {
+      "question": "What is the length of the management contract?",
+      "answer": "We typically sign the management contract for 12 months with automatic renewal and a clearly defined three-month notice period. We are flexible and can adjust the terms according to individual agreement."
     }
   },
   "contact": {
-    "subtitle": "STAY IN TOUCH",
-    "title": "CONTACT",
-    "address": {
-      "title": "ADDRESS",
-      "text": "Kaprova 52/6, Prague 1"
-    },
-    "phone": {
-      "title": "PHONE",
-      "text": "+420 777 558 730"
-    },
-    "email": {
-      "title": "E-MAIL",
-      "text": "pavel.jaros@kwcz.cz"
-    },
+    "title": "Start earning without worries today.",
+    "subtitle": "Write to us about your property. Within 24 hours, we will contact you with a non-binding proposal and market rent estimate. Consultation is always free.",
+    "phone": "+420 777 558 730",
+    "email": "pavel.jaros@kwcz.cz",
+    "address": "Karlovy Vary region",
     "form": {
-      "name": "Name and Surname",
-      "email": "E-mail",
-      "phone": "Phone Number",
-      "message": "Your Message",
-      "weekend": "Can we contact you on weekends?",
-      "gdpr": "Do you agree to the processing of personal data according to Act No. 101/2000 Coll. On the protection of personal data",
-      "submit": "SEND"
+      "name": "Your full name*",
+      "email": "Your email*",
+      "phone": "Your phone*",
+      "propertyAddress": "Property address (optional)",
+      "message": "Your message (e.g., what type of apartment)",
+      "gdpr": "I agree to the processing of personal data.*",
+      "submit": "Send non-binding inquiry",
+      "sending": "Sending...",
+      "success": "Thank you for your message! We will get back to you as soon as possible.",
+      "error": "An error occurred while sending the form. Please try again."
     }
   },
   "footer": {
-    "gdpr": "By browsing the website, you agree to the processing of personal data and cookies.",
-    "business": "Sole proprietor, doing business on the basis of a trade license, ID: 10846671, authorized to act on behalf of Keller Williams Metropolitan, which is an establishment of MC Metropolitan s.r.o., ID: 07796340.",
-    "ethics": "Code of Ethics",
-    "consumer": "Consumer Information",
-    "whistleblow": "Internal Reporting System"
+    "contact": {
+      "title": "Contact",
+      "name": "Pavel Jaros",
+      "phone": "+420 777 558 730",
+      "email": "pavel.jaros@kwcz.cz",
+      "ico": "ID: 10846671",
+      "address": "Kaprova 52/6, Prague 1"
+    },
+    "services": {
+      "title": "PJ Group",
+      "reality": "PJ-Reality",
+      "reconstruction": "PJ-Rekonstrukce",
+      "design": "PJ-Design"
+    },
+    "info": {
+      "title": "Information",
+      "services": "Services",
+      "pricing": "Pricing",
+      "faq": "Frequently asked questions"
+    },
+    "copyright": "\u00a9 2025 PJ-Sprava. All rights reserved.",
+    "privacy": "Privacy policy"
   }
 }

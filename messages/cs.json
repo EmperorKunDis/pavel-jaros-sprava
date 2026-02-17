@@ -15,73 +15,96 @@
     "cta": "Nezávazná poptávka"
   },
   "hero": {
-    "title": "Nepřetržitý příjem z pronájmu bez starostí – i když je váš byt prázdný.",
-    "subtitle": "Svěřte nám svou nemovitost v Karlovarském kraji a my zařídíme vše ostatní. Od prověřených nájemníků po garantovaný příjem. Váš byt. Naše starost.",
+    "title": "Bezstarostný příjem z pronájmu. Každý měsíc, za všech okolností.",
+    "subtitle": "Svěřte svou nemovitost profesionálům a užívejte si stabilní příjem bez jediného telefonátu od nájemníků. Postaráme se o vše – od výběru spolehlivých nájemců až po pravidelné kontroly a kompletní servis. Váš byt. Naše starost. Váš klid.",
     "cta": "Chci pronajímat bez starostí"
   },
+  "whyUs": {
+    "title": "Proč si vybrat naši správu pronájmu?",
+    "item1": {
+      "title": "Kompletní správa nájmu od A do Z",
+      "text": "Prověříme nájemníky, připravíme smlouvy, zajistíme předání bytu, komunikaci i vyúčtování. Vy se o nic nestaráte."
+    },
+    "item2": {
+      "title": "Transparentní smlouvy",
+      "text": "Žádné hvězdičky ani překvapení. Smlouvy jsou srozumitelné, férové a přehledné."
+    },
+    "item3": {
+      "title": "Rychlá reakce do 24 hodin",
+      "text": "Kdykoliv nájemníci něco potřebují, řešíme to okamžitě. Vy o tom víte jen ve formě pravidelných reportů."
+    },
+    "item4": {
+      "title": "Maximalizujeme váš zisk",
+      "text": "Nastavíme optimální výši nájemného, minimalizujeme rizika a zajistíme, aby vaše nemovitost vydělávala naplno."
+    }
+  },
   "target": {
-    "title": "Šetříme váš čas a maximalizujeme zisk.",
-    "subtitle": "Naše služba je navržena pro každého majitele, který chce z pronájmu těžit maximum s minimem úsilí. Jsme ideální partner, pokud:",
+    "title": "Pro koho je služba ideální?",
+    "subtitle": "",
     "investor": {
-      "title": "Jste investor",
-      "text": "Vlastníte jeden či více investičních bytů a chcete z nich mít stabilní pasivní příjem bez jakékoliv práce."
+      "title": "Investoři",
+      "text": "Investory, kteří chtějí pasivní příjem bez práce."
     },
     "remote": {
-      "title": "Bydlíte jinde",
-      "text": "Žijete mimo Karlovarský kraj nebo v zahraničí a nemůžete se o svou nemovitost denně starat a řešit její provoz."
+      "title": "Majitelé mimo kraj",
+      "text": "Majitele žijící mimo Karlovarský kraj nebo v zahraničí, kteří se o nemovitost nemohou starat osobně."
     },
     "time": {
-      "title": "Ceníte si svůj čas",
-      "text": "Jste pracovně vytížení a nechcete svůj volný čas trávit komunikací s nájemníky, řešením oprav a administrativou."
+      "title": "Zaneprázdnění profesionálové",
+      "text": "Zaneprázdněné profesionály, kteří chtějí věnovat čas sobě, ne řešení oprav a komunikaci s nájemníky."
+    },
+    "everyone": {
+      "title": "Každému",
+      "text": "Každého, kdo chce spolehlivý výnos bez starostí."
     }
   },
   "process": {
-    "title": "Cesta k bezstarostnému pronájmu ve 4 jednoduchých krocích",
+    "title": "Jak funguje správa pronájmu? Jednoduše. Ve 4 krocích.",
     "subtitle": "Celý proces je rychlý, transparentní a navržený pro vaše maximální pohodlí.",
     "step1": {
       "title": "Nezávazná konzultace",
-      "text": "Spojíte se s námi. Probereme vaši nemovitost, vaše cíle a představíme vám možnosti. Zcela zdarma."
+      "text": "Probereme vaši nemovitost, cíle a možnosti – nezávazně a zdarma."
     },
     "step2": {
-      "title": "Výběr tarifu a strategie",
-      "text": "Na základě vašich potřeb doporučíme ideální tarif a navrhneme optimální výši nájemného pro maximální obsazenost."
+      "title": "Návrh tarifu a optimálního nájemného",
+      "text": "Doporučíme nejlepší tarif a nastavíme nájemné tak, aby vydělávalo."
     },
     "step3": {
       "title": "Podpis transparentní smlouvy",
-      "text": "Podepíšeme jednoduchou a srozumitelnou smlouvu o správě. Žádné skryté podmínky, žádné háčky."
+      "text": "Jednoduchá, férová a jasná smlouva bez skrytých podmínek."
     },
     "step4": {
-      "title": "My se staráme, vy vyděláváte",
-      "text": "Od této chvíle je vše na nás. Vy už jen sledujete, jak vám každý měsíc chodí peníze na účet."
+      "title": "Vy inkasujete, my se staráme",
+      "text": "Zajišťujeme vše od nájemníků po údržbu. Vy jen sledujete příchozí platby."
     }
   },
   "benefits": {
-    "title": "Kompletní servis pro vaši nemovitost a váš klid",
-    "subtitle": "Naším cílem je ochránit vaši investici a zajistit její plynulý chod. Postaráme se o vše.",
+    "title": "Co všechno pro vás zařídíme?",
+    "subtitle": "",
     "tenants": {
-      "title": "Pečlivý výběr nájemníků a eliminace rizik",
-      "text": "Najít dobrého nájemníka je základ. Každého zájemce proto důkladně prověřujeme – kontrolujeme registry, ověřujeme příjmy a reference z předchozích bydlení. Minimalizujeme tak riziko neplatičů a problémových nájemníků."
+      "title": "Pečlivý výběr nájemníků",
+      "text": "Prověřujeme registry, příjmy i reference. Minimalizujeme riziko neplatičů a problémových nájemníků."
     },
     "guarantee": {
-      "title": "Garantovaný příjem z nájmu",
-      "text": "S naším prémiovým tarifem máte jistotu, že nájemné dostanete každý měsíc, i kdyby byl byt dočasně prázdný nebo nájemník platil se zpožděním. Vaše příjmy jsou stabilní a předvídatelné."
+      "title": "Garantovaný příjem (u vybraných tarifů)",
+      "text": "S prémiovými tarify dostáváte nájemné i tehdy, když je byt prázdný nebo nájemník platí pozdě."
     },
     "management": {
-      "title": "Kompletní správa a technická údržba",
-      "text": "Od kapajícího kohoutku po revizi kotle. Řešíme veškeré opravy a běžnou údržbu. Zajišťujeme komunikaci s dodavateli služeb, roční vyúčtování i pravidelné kontroly stavu nemovitosti."
+      "title": "Zajištění oprav a technické údržby",
+      "text": "Postaráme se o veškeré opravy, údržbu, kontroly, komunikaci s dodavateli i roční vyúčtování."
     },
     "legal": {
-      "title": "Právní a administrativní servis",
-      "text": "Připravíme profesionální a právně ošetřené nájemní smlouvy. Postaráme se o předání a převzetí bytu včetně detailních protokolů. Komunikaci s nájemníky, úřady i SVJ vedeme za vás."
+      "title": "Kompletní právní a administrativní servis",
+      "text": "Profesionální nájemní smlouvy, předávací protokoly, komunikace s nájemníky, SVJ i úřady – vše za vás."
     }
   },
   "pricing": {
-    "title": "Vyberte si míru klidu, která vám vyhovuje",
+    "title": "Naše tarify",
     "subtitle": "Naše ceny jsou transparentní. Žádné skryté poplatky, jen jasně dané procento z měsíčního nájemného.",
     "start": {
       "name": "Tarif START",
       "price": "12 % z nájemného",
-      "description": "Ideální pro majitele, kteří chtějí profesionální péči o nájemní vztah a administrativu.",
+      "description": "Kompletní správa, prověření nájemníků, smlouvy, předání bytu, komunikace.",
       "cta": "Zvolit tarif START",
       "features": {
         "1": "Inzerce nemovitosti a marketing",
@@ -92,11 +115,23 @@
         "6": "Zajištění vyúčtování služeb"
       }
     },
+    "plus": {
+      "name": "Tarif PLUS",
+      "price": "15 % z nájemného",
+      "description": "Rozšířená péče + garance 50 % nájemného.",
+      "cta": "Zvolit tarif PLUS",
+      "features": {
+        "1": "Vše z tarifu START",
+        "2": "Garance 50 % nájemného",
+        "3": "Zajištění drobných oprav",
+        "4": "Pravidelné reporty"
+      }
+    },
     "premium": {
       "name": "Tarif PREMIUM",
       "badge": "Doporučujeme",
       "price": "20 % z nájemného",
-      "description": "Pro maximální jistotu a absolutní bezstarostnost. Vaše jediná starost je sledovat příchozí platby.",
+      "description": "Maximální jistota. Prioritní péče + 100% garance nájemného i při neobsazenosti bytu.",
       "cta": "Zvolit tarif PREMIUM",
       "features": {
         "1": "Vše z tarifu START",
@@ -109,9 +144,9 @@
     }
   },
   "about": {
-    "title": "Váš majetek v rukou experta z Karlovarského kraje",
-    "intro": "Jmenuji se Pavel Jaroš a nemovitostem v našem regionu se věnuji více než 15 let. Za tu dobu jsem pomohl stovkám klientů s prodejem, nákupem i pronájmem jejich domovů a investic.",
-    "motivation": "Službu PJ-Správa jsem založil, protože věřím, že vlastnit nemovitost má být radost, nikoliv starost. Vím, jaké problémy může správa pronájmu přinášet, a chci majitelům nabídnout službu, na kterou se mohou 100% spolehnout. Ke každé nemovitosti přistupuji s péčí, jako by byla moje vlastní.",
+    "title": "Váš majetek v rukou odborníka z Karlovarského kraje",
+    "intro": "Tým vedený Pavlem Jarošem poskytuje profesionální služby v oblasti pronájmu a správy nemovitostí s více než 15 letou praxí na realitním trhu.",
+    "motivation": "Jsme součástí skupiny PJ Group – PJ Reality, PJ Reko, PJ Správa a PJ Design.",
     "group": {
       "title": "Součást silné skupiny",
       "subtitle": "Komplexní služby pod jednou střechou",
@@ -121,16 +156,16 @@
     }
   },
   "references": {
-    "title": "Spokojení majitelé jsou naší nejlepší vizitkou",
+    "title": "Co říkají naši klienti",
     "client1": {
       "name": "Petr N., Praha",
       "subtitle": "majitel bytu 2+1 v K. Varech",
-      "text": "Bydlím v Praze a byt v Karlových Varech jsem zdědil. Díky panu Jarošovi a jeho službě se nemusím o nic starat. Komunikace je skvělá, vše funguje a peníze chodí na účet včas. Naprostá spokojenost."
+      "text": "Bydlím v Praze a byt v Karlových Varech svěřuji do správy už několik let. Díky panu Jarošovi vše funguje a peníze chodí včas. Naprostá spokojenost."
     },
     "client2": {
       "name": "Ing. Jana D., Cheb",
       "subtitle": "majitelka bytu 3+kk",
-      "text": "Jako podnikatel nemám čas řešit kapající kohoutky nebo hledání nových nájemníků. Tarif PREMIUM mi dává absolutní jistotu příjmu a hlavně klid. Služby PJ-Správa mohu jen doporučit."
+      "text": "Tarif PREMIUM mi dává absolutní jistotu příjmů a hlavně klid."
     }
   },
   "faq": {
@@ -177,8 +212,8 @@
       "name": "Pavel Jaroš",
       "phone": "+420 777 558 730",
       "email": "pavel.jaros@kwcz.cz",
-      "ico": "IČO: [Doplnit IČO]",
-      "address": "[Doplnit adresu sídla]"
+      "ico": "ICO: 10846671",
+      "address": "Kaprova 52/6, Praha 1"
     },
     "services": {
       "title": "Skupina PJ",

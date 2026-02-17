@@ -1,149 +1,233 @@
 {
-  "nav": {
-    "properties": "Nehnuteľnosti",
-    "services": "Služby",
-    "references": "Referencie",
-    "about": "O mne",
-    "contact": "Kontakt",
-    "contactMe": "KONTAKTUJTE MA"
-  },
   "cookie": {
-    "message": "Aby sme poskytli čo najlepšie služby, používame technológie ako sú súbory cookies na ukladanie a/alebo prístup k informáciám o zariadení.",
-    "reject": "Odmietnuť",
-    "accept": "Prijať",
-    "preferences": "Zobraziť predvoľby"
+    "message": "Tento web pouziva cookies na zlepsenie pouzivatelskeho zazitku. Pouzivanim tohto webu suhlasite s nasimi zasadami cookies.",
+    "accept": "Prijat vsetko",
+    "reject": "Odmietnut vsetko",
+    "preferences": "Zobrazit predvolby"
+  },
+  "nav": {
+    "services": "Sluzby",
+    "pricing": "Cennik",
+    "howItWorks": "Ako to funguje",
+    "about": "O nas",
+    "references": "Referencie",
+    "contact": "Kontakt",
+    "cta": "Nezavazna popytavka"
   },
   "hero": {
-    "title": "Maximalizujte zisk z vašej nehnuteľnosti",
-    "cta": "MNOU PONÚKANÉ SLUŽBY"
+    "title": "Bezstarostny prijem z prenajmu. Kazdy mesiac, za vsetkych okolnosti.",
+    "subtitle": "Zverte svoju nehnutelnost profesionalom a uzivajte si stabilny prijem bez jedineho telefonatu od najomnikov. Postarame sa o vsetko - od vyberu spolahlivych najomcov az po pravidelne kontroly a kompletny servis. Vas byt. Nasa starost. Vas klud.",
+    "cta": "Chcem prenajimovat bez starosti"
   },
-  "properties": {
-    "viewProperty": "PREZRIEŤ NEHNUTEĽNOSŤ",
-    "moreProperties": "VIAC NEHNUTEĽNOSTÍ"
+  "whyUs": {
+    "title": "Preco si vybrat nasu spravu prenajmu?",
+    "item1": {
+      "title": "Kompletna sprava najmu od A do Z",
+      "text": "Preverime najomnikov, pripravime zmluvy, zabezpecime odovzdanie bytu, komunikaciu aj vyuctovanie. Vy sa o nic nestarate."
+    },
+    "item2": {
+      "title": "Transparentne zmluvy",
+      "text": "Ziadne hvezdicky ani prekvapenia. Zmluvy su zrozumitelne, ferove a prehladne."
+    },
+    "item3": {
+      "title": "Rychla reakcia do 24 hodin",
+      "text": "Kedykolvek najomnici nieco potrebuju, riesime to okamzite. Vy o tom viete len vo forme pravidelnych reportov."
+    },
+    "item4": {
+      "title": "Maximalizujeme vas zisk",
+      "text": "Nastavime optimalnu vysku najomneho, minimalizujeme rizika a zabezpecime, aby vasa nehnutelnost zarabala naplno."
+    }
   },
-  "services": {
-    "title": "SLUŽBY",
-    "bookMeeting": "CHCEM SI DOHODNÚŤ STRETNUTIE",
-    "sale": {
-      "title": "PREDAJ",
-      "description": "Mojím cieľom je predať vašu nehnuteľnosť za najvyššiu možnú cenu na trhu a zabezpečiť, aby celý proces prebehol hladko a efektívne."
+  "target": {
+    "title": "Pre koho je sluzba idealna?",
+    "subtitle": "",
+    "investor": {
+      "title": "Investori",
+      "text": "Investorov, ktori chcu pasivny prijem bez prace."
     },
-    "rent": {
-      "title": "PRENÁJOM",
-      "description": "Vždy sa snažím dosiahnuť čo najvyššiu cenu prenájmu a zároveň nájsť solventných nájomcov, ktorí budú mať záujem o dlhodobý prenájom."
+    "remote": {
+      "title": "Majitelia mimo kraj",
+      "text": "Majitelov zijucich mimo Karlovarsky kraj alebo v zahranici, ktori sa o nehnutelnost nemozu starat osobne."
     },
-    "marketing": {
-      "title": "MARKETING A STRATÉGIA",
-      "description": "Marketing a reklama tvoria neoddeliteľnú časť mojej práce. Dávam si záležať na zvolení vhodnej stratégie s maximálnym nasadením."
+    "time": {
+      "title": "Zaneprazdneni profesionali",
+      "text": "Zaneprazdnenych profesionalov, ktori chcu venovat cas sebe, nie rieseniu oprav a komunikacii s najomnikmi."
     },
-    "presentation": {
-      "title": "PREZENTÁCIA NEHNUTEĽNOSTI",
-      "description": "Pri prezentácii nehnuteľnosti vždy kladiem dôraz na detail s využitím najnovších technológií, vrátane kvalitných fotografií a 3D vizualizácií."
+    "everyone": {
+      "title": "Kazdemu",
+      "text": "Kazdeho, kto chce spolahlivy vynos bez starosti."
+    }
+  },
+  "process": {
+    "title": "Ako funguje sprava prenajmu? Jednoducho. V 4 krokoch.",
+    "subtitle": "Cely proces je rychly, transparentny a navrhnuty pre vase maximalne pohodlie.",
+    "step1": {
+      "title": "Nezavazna konzultacia",
+      "text": "Preberieme vasu nehnutelnost, ciele a moznosti - nezavazne a zadarmo."
     },
-    "reconstruction": {
-      "title": "REKONŠTRUKCIA NEHNUTEĽNOSTI",
-      "description": "Vďaka skúsenostiam z niekoľkých kompletných rekonštrukcií vám môžem odporučiť vhodné riešenie a prípadne zabezpečiť profesionálov."
+    "step2": {
+      "title": "Navrh tarifu a optimalneho najomneho",
+      "text": "Odporucime najlepsi tarif a nastavime najomne tak, aby zarabalo."
     },
-    "valuation": {
-      "title": "ODHAD CENY NEHNUTEĽNOSTI",
-      "description": "K oceneniu nehnuteľnosti využívam overené nástroje, ako sú napríklad cenové mapy, spoločne s katastrom nehnuteľností."
+    "step3": {
+      "title": "Podpis transparentnej zmluvy",
+      "text": "Jednoducha, ferova a jasna zmluva bez skrytych podmienok."
     },
-    "activities": {
-      "subtitle": "S ČÍM NAJČASTEJŠIE POMÁHAM SVOJIM KLIENTOM",
-      "title": "MOJA PRÁCA ZAHŔŇA NASLEDUJÚCE ČINNOSTI",
-      "list": {
-        "communication": "Obchodná komunikácia so záujemcami",
-        "targeting": "Identifikácia a špecifikácia cieľovej skupiny",
-        "negotiation": "Vyjednanie najlepších podmienok predaja",
-        "documentation": "Príprava dokumentácie",
-        "supervision": "Dohľad nad obchodným prípadom od začiatku do konca",
-        "strategy": "Nastavenie marketingovej stratégie a propagácie",
-        "socialMedia": "Platená propagácia na sociálnych sieťach",
-        "materials": "Príprava a tvorba reklamných materiálov",
-        "flyers": "Distribúcia letákov",
-        "print": "Umiestnenie inzercie v tlačených médiách",
-        "portals": "Zverejnenie inzerátov na všetkých realitných portáloch",
-        "websites": "Vytváranie webových stránok pre nehnuteľnosti"
+    "step4": {
+      "title": "Vy inkasujete, my sa starame",
+      "text": "Zabezpecujeme vsetko od najomnikov po udrzbu. Vy len sledujete prichadzajuce platby."
+    }
+  },
+  "benefits": {
+    "title": "Co vsetko pre vas zariadime?",
+    "subtitle": "",
+    "tenants": {
+      "title": "Peclivy vyber najomnikov",
+      "text": "Preverujeme registre, prijmy aj referencie. Minimalizujeme riziko neplaticov a problemovych najomnikov."
+    },
+    "guarantee": {
+      "title": "Garantovany prijem (u vybranych tarifov)",
+      "text": "S premiovymi tarifmi dostavate najomne aj vtedy, ked je byt prazdny alebo najomnik plati neskoro."
+    },
+    "management": {
+      "title": "Zabezpecenie oprav a technickej udrzby",
+      "text": "Postarame sa o vsetky opravy, udrzbu, kontroly, komunikaciu s dodavatelmi aj rocne vyuctovanie."
+    },
+    "legal": {
+      "title": "Kompletny pravny a administrativny servis",
+      "text": "Profesionalne najomne zmluvy, odovzdavacie protokoly, komunikacia s najomnikmi, SVJ aj uradmi - vsetko za vas."
+    }
+  },
+  "pricing": {
+    "title": "Nase tarify",
+    "subtitle": "Nase ceny su transparentne. Ziadne skryte poplatky, len jasne dane percento z mesacneho najomneho.",
+    "start": {
+      "name": "Tarif START",
+      "price": "12 % z najomneho",
+      "description": "Kompletna sprava, preverenie najomnikov, zmluvy, odovzdanie bytu, komunikacia.",
+      "cta": "Zvolit tarif START",
+      "features": {
+        "1": "Inzercia nehnutelnosti a marketing",
+        "2": "Vyber a kompletne preverenie najomnikov",
+        "3": "Priprava a podpis najomnych zmluv",
+        "4": "Odovzdanie bytu a vytvorenie protokolu",
+        "5": "Komunikacia s najomnikmi",
+        "6": "Zabezpecenie vyuctovania sluzieb"
+      }
+    },
+    "plus": {
+      "name": "Tarif PLUS",
+      "price": "15 % z najomneho",
+      "description": "Rozsirena starostlivost + garancia 50 % najomneho.",
+      "cta": "Zvolit tarif PLUS",
+      "features": {
+        "1": "Vsetko z tarifu START",
+        "2": "Garancia 50 % najomneho",
+        "3": "Zabezpecenie drobnych oprav",
+        "4": "Pravidelne reporty"
+      }
+    },
+    "premium": {
+      "name": "Tarif PREMIUM",
+      "badge": "Odporucame",
+      "price": "20 % z najomneho",
+      "description": "Maximalna istota. Prioritna starostlivost + 100% garancia najomneho aj pri neobsadenosti bytu.",
+      "cta": "Zvolit tarif PREMIUM",
+      "features": {
+        "1": "Vsetko z tarifu START",
+        "2": "100% GARANCIA NAJMU aj pri neobsadenosti bytu",
+        "3": "Garantovana platba najmu aj pri oneskorenej od najomnika",
+        "4": "Zabezpecenie drobnych oprav a udrzby",
+        "5": "Pravidelne fyzicke kontroly stavu bytu (1x za 6 mesiacov)",
+        "6": "Prioritny servis a riesenie poistnych udalosti"
       }
     }
   },
   "about": {
-    "subtitle": "O MNE",
-    "title": "PAVEL JAROŠ",
-    "intro": "Volám sa Pavel Jaroš a som realitný maklér, ktorý sa neustále snaží o profesný rast a zdokonaľovanie v odbore.",
-    "origin": "Pochádzam z Chebu a v realitách sa pohybujem štvrtým rokom ako investor (nákup - rekonštrukcia - predaj). Zaoberám sa v dnešnej dobe veľmi populárnym tzv. flipovaním nehnuteľností.",
-    "motivation": "Keďže by som sa rád v tomto odbore zdokonalil, rozhodol som sa pre cestu realitného makléra. Táto práca ma baví predovšetkým kvôli svojej rôznorodosti. Riešim nielen obchod, ale aj právnu problematiku a samotnú stavbu. Každý deň je tak úplne iný, čo ma napĺňa.",
-    "passion": "Baví ma hľadať vhodné riešenia, komunikovať, prepájať dodávateľov, investorov a všetko ostatné, čo s nehnuteľnosťami súvisí. Rád sa stretávam s novými ľuďmi a riešim prípady, s ktorými si iní nevedia rady. Spokojnosť klientov je pre mňa najvyššou odmenou.",
-    "values": "Vyznačujem sa empatiou a plne chápem, že každý klient vyžaduje individuálny a flexibilný prístup. Na dobrej povesti a mene si zakladám.",
-    "hobby": "Vo voľnom čase rád športujem, bez návštevy fitka si už neviem predstaviť dobre strávený deň. Ako správny blázon mám rád aj adrenalín – zoskoky padákom a akékoľvek adrenalínové atrakcie, do všetkého idem naplno. Život sa musí žiť.",
-    "location": {
-      "title": "LOKALITA",
-      "text": "Pôsobím prevažne v Prahe, v Stredočeskom a Západočeskom kraji, avšak som otvorený spolupráci po celej ČR."
-    },
-    "experience": {
-      "title": "AKO DLHO?",
-      "text1": "Ako investor v nehnuteľnostiach mám za sebou štyri roky plné úspešných projektov, medzi ktoré sa radia aj niekoľko zdařilých flipov nehnuteľností.",
-      "text2": "Donedávna som kompletné rekonštrukcie bytov v pôvodnom stave zarizoval sám, teraz už mám malú stavebnú firmu a nie je pre mňa teda problém klientovi s čímkoľvek pomôcť a nehnuteľnosť upraviť tak, aby bol výsledkom ľahký predaj a vyšší zisk."
-    },
-    "commission": {
-      "title": "PROVÍZIA",
-      "text": "Pri predaji nehnuteľnosti, poplatok známy ako provízia, hradí predávajúci. V konečnom dôsledku je to logické, pretože predávajúci je ten, kto si vyberá makléra a koho záujmy maklér háji. Výška provízie nie je pevne stanovená a môže sa líšiť v závislosti na rade faktorov, ako je predajná stratégia, marketingový rozpočet, umiestnenie a cena nehnuteľnosti. Obvykle sa však provízia pohybuje v rozmedzí 3 - 5 % z kúpnej ceny nehnuteľnosti."
-    },
-    "why": {
-      "title": "PREČO SPOLUPRACOVAŤ SO MNOU?",
-      "individual": "Individuálny proklientský prístup",
-      "professional": "Profesionálna prezentácia nehnuteľnosti",
-      "efficiency": "Efektivita",
-      "experience": "Mnohoročné skúsenosti v odbore realít",
-      "flexibility": "Flexibilita"
+    "title": "Vas majetok v rukach odbornika z Karlovarskeho kraja",
+    "intro": "Tim vedeny Pavlom Jarosom poskytuje profesionalne sluzby v oblasti prenajmu a spravy nehnutelnosti s viac ako 15 rocnou praxou na realitnom trhu.",
+    "motivation": "Sme sucastou skupiny PJ Group - PJ Reality, PJ Reko, PJ Sprava a PJ Design.",
+    "group": {
+      "title": "Sucast silnej skupiny",
+      "subtitle": "Komplexne sluzby pod jednou strechou",
+      "reality": "Profesionalny predaj a nakup nehnutelnosti.",
+      "reconstruction": "Zhodnotenie vasej investicie kompletnou rekonstrukciou.",
+      "design": "Navrh interieru, ktory prilaka tych najlepsich najomnikov."
     }
   },
   "references": {
-    "subtitle": "ČO O MNE HOVORIA MOJI KLIENTI",
-    "title": "REFERENCIE",
+    "title": "Co hovoria nasi klienti",
     "client1": {
-      "name": "Daniela Baudýsová",
-      "text": "Ďakujeme za rýchly a bezproblémový predaj chaty. Pán Jaroš je ochotný, vstřícny a veľmi profesionálny. Svojej práci rozumie. Určite odporúčame."
+      "name": "Petr N., Praha",
+      "subtitle": "majitel bytu 2+1 v K. Varoch",
+      "text": "Byvam v Prahe a byt v Karlovych Varoch zverujem do spravy uz niekolko rokov. Vdaka panovi Jarosovi vsetko funguje a peniaze chodia vcas. Uplna spokojnost."
     },
     "client2": {
-      "name": "David",
-      "text": "Pán Jaroš bol skvelý – profesionálny, rýchly a vždy k dispozícii. Občas som mal pocit, že keby to bolo treba, predal by aj vlastnú babičku – a ešte by vyjednal lepšiu cenu. Vďaka za bezproblémový predaj a ľudský prístup."
+      "name": "Ing. Jana D., Cheb",
+      "subtitle": "majitelka bytu 3+kk",
+      "text": "Tarif PREMIUM mi dava absolutnu istotu prijmov a hlavne klud."
+    }
+  },
+  "faq": {
+    "title": "Mate otazky? Mame odpovede.",
+    "q1": {
+      "question": "Co sa stane, ked najomnik neplati?",
+      "answer": "V tarife START okamzite zahajujeme standardny proces vymahania dlhu a komunikujeme s najomnikov. V tarife PREMIUM tuto situaciu vobec nespoznate - najomne vam garantovane zasleme z nasich prostriedkov a celu situaciu riesime na vlastne naklady."
     },
-    "client3": {
-      "name": "Josef Neumann",
-      "text": "Proaktívny prístup a perfektná komunikácia. Maximálna spokojnosť!"
+    "q2": {
+      "question": "Ako prebieha vyber najomnika?",
+      "answer": "Ide o viackrokovy proces. Inzerujeme na najvacsich portaloch, filtrujeme zaujemcov, preverujeme ich v dostupnych registroch, overujeme ich bonitu a vedieme osobne pohovory. Finalny vyber najvhodnejsich kandidatov vzdy konzultujeme s vami."
+    },
+    "q3": {
+      "question": "Co ked treba v byte nieco opravit?",
+      "answer": "Drobne opravy (v ramci tarifu PREMIUM) riesime okamzite s nasimi preverenymi remeslnikmi. V pripade vacsich oprav vas neodkladne kontaktujeme, predstavime rozsah, rozpocet a po vasom schvaleni zabezpecime kompletnu realizaciu."
+    },
+    "q4": {
+      "question": "Aka je dlzka zmluvy o sprave?",
+      "answer": "Zmluvu o sprave standardne uzatvarame na dobu 12 mesiacov s automatickym predlzenim a s jasne danou trojmesacnou vypovednou lehotou. Sme flexibilni a podmienky mozeme upravit podla individualnej dohody."
     }
   },
   "contact": {
-    "subtitle": "ZOSTANEME V SPOJENÍ",
-    "title": "KONTAKT",
-    "address": {
-      "title": "ADRESA",
-      "text": "Kaprova 52/6, Praha 1"
-    },
-    "phone": {
-      "title": "TELEFÓN",
-      "text": "+420 777 558 730"
-    },
-    "email": {
-      "title": "E-MAIL",
-      "text": "pavel.jaros@kwcz.cz"
-    },
+    "title": "Zacnite zarabat bez starosti este dnes.",
+    "subtitle": "Napiste nam o svojej nehnutelnosti. Do 24 hodin sa vam ozveme s nezavaznym navrhom a odhadom trzneho najomneho. Konzultacia je vzdy zadarmo.",
+    "phone": "+420 777 558 730",
+    "email": "pavel.jaros@kwcz.cz",
+    "address": "Karlovarsky kraj",
     "form": {
-      "name": "Meno a priezvisko",
-      "email": "E-mail",
-      "phone": "Telefónne číslo",
-      "message": "Vaša správa",
-      "weekend": "Môžeme vás kontaktovať aj cez víkend?",
-      "gdpr": "Súhlasíte so spracovaním osobných údajov podľa zákona č. 101/2000 Zb. O ochrane osobných údajov",
-      "submit": "ODOSLAŤ"
+      "name": "Vase meno a priezvisko*",
+      "email": "Vas e-mail*",
+      "phone": "Vas telefon*",
+      "propertyAddress": "Adresa nehnutelnosti (nepovinne)",
+      "message": "Vasa sprava (napr. o aky byt sa jedna)",
+      "gdpr": "Suhlasim so spracovanim osobnych udajov.*",
+      "submit": "Odoslat nezavaznu popytavku",
+      "sending": "Odosielanie...",
+      "success": "Dakujeme za vasu spravu! Ozveme sa vam co najskor.",
+      "error": "Nastala chyba pri odosielani formulara. Skuste to prosim znova."
     }
   },
   "footer": {
-    "gdpr": "Prehliadaním webu súhlasíte so spracovaním osobných údajov a súborov cookies.",
-    "business": "Samostatný podnikateľ, podnikajúci na základe živnostenského listu, IČ: 10846671, zmocnený konať menom Keller Williams Metropolitan, ktorá je prevádzka spoločnosti MC Metropolitan s.r.o., IČ: 07796340.",
-    "ethics": "Etický kódex",
-    "consumer": "Poučenie pre spotrebiteľov",
-    "whistleblow": "Vnútorný oznamovací systém"
+    "contact": {
+      "title": "Kontakt",
+      "name": "Pavel Jaros",
+      "phone": "+420 777 558 730",
+      "email": "pavel.jaros@kwcz.cz",
+      "ico": "ICO: 10846671",
+      "address": "Kaprova 52/6, Praha 1"
+    },
+    "services": {
+      "title": "Skupina PJ",
+      "reality": "PJ-Reality",
+      "reconstruction": "PJ-Rekonstrukce",
+      "design": "PJ-Design"
+    },
+    "info": {
+      "title": "Informacie",
+      "services": "Sluzby",
+      "pricing": "Cennik",
+      "faq": "Casto kladene otazky"
+    },
+    "copyright": "\u00a9 2025 PJ-Sprava. Vsetky prava vyhradene.",
+    "privacy": "Zasady ochrany osobnych udajov"
   }
 }
